@@ -1,9 +1,10 @@
----
+﻿---
 name: luna_pinyin.dongman
 version: "20190905"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+dongman.dict	dictmusic	1
 阿达西	a da xi	1
 阿逗	a dou	1
 阿尔	a er	1

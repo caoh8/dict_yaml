@@ -1,10 +1,10 @@
----
+﻿---
 name: luna_pinyin.popmusic
 version: "20190905"
 sort: by_weight
 use_preset_vocabulary: true
 ...
-
+popmusic.dict	dictmusic	1
 阿刁	a diao	1
 阿尔山的姑娘	a er shan de gu niang	1
 爱出发	ai chu fa	1

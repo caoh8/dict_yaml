@@ -1,12 +1,10 @@
----
+﻿---
 name: luna_pinyin.dailywords
 version: "20190905"
 sort: by_weight
 use_preset_vocabulary: true
 ...
-白	m	1
-li	m	100
-ok	m	10
+dayilywords.dict	dictmusic	1
 阿德里亚诺	a de li ya nuo	1
 阿尔巴尼亚	a er ba ni ya	1
 阿尔伯特	a er bo te	1
@@ -38477,4 +38475,4 @@ ok	m	10
 做做看	zuo zuo kan	1
 佐佐木	zuo zuo mu	1
 佐佐木希	zuo zuo mu xi	1
-左\E5
+左左右右	zuo zuo you you	1

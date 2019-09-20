@@ -1,9 +1,10 @@
----
+﻿---
 name: luna_pinyin.moviesong
 version: "20190905"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+moviesong.dict	dictmusic	1
 阿阿奇与西西帕克	a a qi yu xi xi pa ke	1
 阿宝	a bao	1
 阿倍野挢魔法商店街	a bei ye jiao mo fa shang dian jie	1

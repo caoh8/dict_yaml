@@ -1,1189 +1,1190 @@
----
+ï»¿---
 name: luna_pinyin.shucai
 version: "20190905"
 sort: by_weight
 use_preset_vocabulary: true
 ...
-'an'chun'dan ğÆğÈµ°
-'an'qi'jiao'mu'fen'bao °²ç÷½ÍÄ¸·Û°ü
-'ao'gan °Ä¸Ì
-'ba'bao'fan'ge °Ë±¦·¹¸ö
-'ba'jiao °Ë½Ç
-'ba'jiao'hua °Å½¶»¨
-'ba'jiao'ye °Å½¶Ò¶
-'ba'jiao'ye'dai °Å½¶Ò¶´ü
-'ba'qian °ÍÇ¬
-'ba'wang'hua °ÔÍõ»¨
-'bai'cai'tai °×²ËÌ¦
-'bai'cai'xin °×²ËĞÄ
-'bai'dou'fu °×¶¹¸¯
-'bai'dou'fu'gan °×¶¹¸¯¸É
-'bai'dou'kou °×¶¹Ş¢
-'bai'feng'ji °×·ï¼¦
-'bai'feng'jun °×·ï¾ú
-'bai'guo °×¹û
-'bai'guo'rou'bao °×¹ûÈâ°ü
-'bai'guo'wei'gao'tong °×¹ûÎ¶¸àÍ°
-'bai'he °ÙºÏ
-'bai'he'hua °ÙºÏ»¨
-'bai'hua °×»¨
-'bai'hua'cai °×»¨²Ë
-'bai'hua'dou °×»¨¶¹
-'bai'hua'sheng'mi °×»¨ÉúÃ×
-'bai'jin'zhen'gu °×½ğÕë¹½
-'bai'lian'ou °×Á«Åº
-'bai'lian'rong °×Á«ÈØ
-'bai'lian'yu °×öãÓã
-'bai'liang'fen °×Á¹·Û
-'bai'ling'gu °×Áé¹½
-'bai'luo'bo °×ÂÜ²·
-'bai'mo'gu °×Ä¢¹½
-'bai'pi'qing'suan °×Æ¤ÇàËâ
-'bai'pi'qing'sun °×Æ¤ÇàËñ
-'bai'qin °×ÇÛ
-'bai'shan'yao °×É½Ò©
-'bai'shu °×Êí
-'bai'tang °×ÌÇ
-'bai'xiang'gua °×Ïã¹Ï
-'bai'xin'yang'yu °×ĞÄÑóÓó
-'bai'yang'cong °×Ñó´Ğ
-'bai'yu'lan'jiao'zi'mian'fen'dai °×ÓñÀ¼½È×ÓÃæ·Û´ü
-'bai'zhi °×ÜÆ
-'bai'zhi'ma °×Ö¥Âé
-'ban'dou'fu °å¶¹¸¯
-'ban'lan'gen °åÀ¶¸ù
-'bang'bang'cai °ô°ô²Ë
-'bang'cai °ô²Ë
-'bao'cai °ü²Ë
-'bao'gu'mi °ü¹ÈÃ×
-'bao'jiang'dou'fu °ü½¬¶¹¸¯
-'bao'jiang'dou'fu'kuai °ü½¬¶¹¸¯¿é
-'bao'jiang'dou'fu'tiao °ü½¬¶¹¸¯Ìõ
-'bao'jiang'dou'fu'xiao'kuai °ü½¬¶¹¸¯Ğ¡¿é
-'bao'pi'ban'li °şÆ¤°åÀõ
-'bao'wei'er'niu'rou'zhi'ping ±£ÎÀ¶ûÅ£ÈâÖ­Æ¿
-'bao'xian'mo'guo'chan ±£ÏÊÄ¤¹ú²ú
-'bao'xian'mo'jin'kou ±£ÏÊÄ¤½ø¿Ú
-'bao'yu'zhi'ping ±«ÓãÖ­Æ¿
-'ben'di'cai'xin ±¾µØ²ËĞÄ
-'ben'di'huang'gua ±¾µØ»Æ¹Ï
-'ben'di'huo'tui ±¾µØ»ğÍÈ
-'ben'di'ji'chi ±¾µØ¼¦³á
-'ben'di'jie'lan ±¾µØ½æÀ¼
-'ben'di'ku'gua ±¾µØ¿à¹Ï
-'ben'di'sheng'cai ±¾µØÉú²Ë
-'ben'di'xiang'chang ±¾µØÏã³¦
-'bin'chuan'qi'cheng ±ö´¨Æê³È
-'bing'dong'xian'hua'jiao ±ù¶³ÏÊ»¨½·
-'bing'dong'xian'you'yu ±ù¶³ÏÊöÏÓã
-'bing'dou'ya ±ù¶¹Ñ¿
-'bing'hua'suan'mei'jiang'ping ±ù»¨ËáÃ·½´Æ¿
-'bing'tang ±ùÌÇ
-'bing'tang'cheng ±ùÌÇ³È
-'bing'tang'san ±ùÌÇÉ¢
-'bo'cai ²¤²Ë
-'bo'he ±¡ºÉ
-'bo'luo ²¤ÂÜ
-'bu'lao'quan'chen'cu'ping ²»ÀÏÈª³Â´×Æ¿
-'cai'hua'ba ²Ê»¨°Ñ
-'cai'jiao ²Ê½·
-'cai'wan'dou ²ËÍã¶¹
-'cai'xin ²ËĞÄ
-'cai'zi'you ²Ë×ÓÓÍ
-'can'dou ²Ï¶¹
-'can'dou'mi ²Ï¶¹Ã×
-'cao'guo ²İ¹û
-'cao'mei ²İİ®
-'cao'ya ²İÑ¿
-'cao'ya'jian ²İÑ¿¼â
-'cao'yu ²İÓã
-'cha'hua'ji'zhi ²è»¨¼¦Ö»
-'cha'shu'gu ²èÊ÷¹½
-'chang'dou'jiao ³¤¶¹½Ç
-'chang'qing'jian'jiao ³¤Çà¼â½·
-'chang'qing'jiao ³¤Çà½·
-'chang'shui'yan'cai ³¤Ë®ëç²Ë
-'chang'si'gua ³¤Ë¿¹Ï
-'chang'suan'cai ³¤Ëá²Ë
-'chang'tou ³¦Í·
-'chang'yan'cai ³¤ëç²Ë
-'chang'zi ³¦×Ó
-'che'lun'huang'nai'you'tong ³µÂÖ»ÆÄÌÓÍÍ°
-'chen'cun'jian'shui'tong ³Â´åèÅË®Í°
-'chen'pi ³ÂÆ¤
-'chen'suan'tai ³ÂËâÌ¦
-'cheng'hong'se'su'ping ³ÈºìÉ«ËØÆ¿
-'cheng'zi ³È×Ó
-'chi'rou ³àÈâ
-'chong'cai ³å²Ë
-'chong'cao'hua ³æ²İ»¨
-'chou'cai ³ô²Ë
-'chou'can ³ô²Î
-'chou'dou'fu ³ô¶¹¸¯
-'chou'dou'fu'kuai ³ô¶¹¸¯¿é
-'chou'dou'fu'xiao'kuai ³ô¶¹¸¯Ğ¡¿é
-'chuan'gong ´¨¹­
-'chuan'qiong'cai ´©ñ·²Ë
-'chun'juan'pi'dai ´º¾íÆ¤´ü
-'ci'gu ´È¹½
-'ci'gu ´Ä¹½
-'ci'qing'gua ´ÌÇà¹Ï
-'ci'wu'jia ´ÌÎå¼Ó
-'cu'cai'xin ´Ö²ËĞÄ
-'cu'la'zi'mian ´ÖÀ±×ÓÃæ
-'cu'mi'xian ´ÖÃ×Ïß
-'cui'dou'fu ´à¶¹¸¯
-'cui'gu ´à¹Ç
-'cui'shi ´àÊÁ
-'da'bai'cai ´ó°×²Ë
-'da'bai'hua ´ó°×»¨
-'da'cong ´ó´Ğ
-'da'dou'se'la'you ´ó¶¹É«À­ÓÍ
-'da'gan'mu'er ´ó¸ÉÄ¾¶ú
-'da'gui'jia'wan'jiang'you'ping ´ó¹ê¼×Íò½´ÓÍÆ¿
-'da'he'gui'yuan ´óºË¹ğÔ²
-'da'hong'jiao ´óºì½·
-'da'hong'xiao'mi'la ´óºìĞ¡Ã×À±
-'da'hua'lian'yu'tou ´ó»¨öãÓãÍ·
-'da'huang'jiang ´ó»Æ½ª
-'da'ji'tui'jie'lan ´ó¼¦ÍÈ½æÀ¼
-'da'jiu'cai ´ó¾Â²Ë
-'da'ku'cai ´ó¿à²Ë
-'da'kuai'hong'tang ´ó¿éºìÌÇ
-'da'lian'hua'bai ´óÁ«»¨°×
-'da'mei'ji'que'chao'ping ´óÃÀ¼«È¸³²Æ¿
-'da'mi ´óÃ×
-'da'qie'zi ´óÇÑ×Ó
-'da'qing'jiao ´óÇà½·
-'da'shan'yao ´óÉ½Ò©
-'da'suan'mi ´óËâÃ×
-'da'suan'tou ´óËâÍ·
-'da'xiang'cai ´óÏã²Ë
-'da'yan'cai ´óëç²Ë
-'da'yuan ´óÔª
-'da'yuan'xi ´óÔªÎ÷
-'da'yuan'xu ´óÔªĞë
-'dai'ci'xiao'huang'gua ´ø´ÌĞ¡»Æ¹Ï
-'dai'ke'can'dou ´ø¿Ç²Ï¶¹
-'dai'pi'bai'suan ´øÆ¤°×Ëâ
-'dai'pi'bao'gu'bang ´øÆ¤°ü¹È°ô
-'dai'pi'bi'qi ´øÆ¤İ©Üù
-'dai'pi'can'dou ´øÆ¤²Ï¶¹
-'dai'pi'du'suan ´øÆ¤¶ÀËâ
-'dai'pi'hou'tui'rou ´øÆ¤ºóÍÈÈâ
-'dai'pi'hua'sheng ´øÆ¤»¨Éú
-'dai'pi'jiao'gua ´øÆ¤Üú¹Ï
-'dai'pi'lao'jiang ´øÆ¤ÀÏ½ª
-'dai'pi'mao'dou ´øÆ¤Ã«¶¹
-'dai'pi'qian'tui'rou ´øÆ¤Ç°ÍÈÈâ
-'dai'pi'qing'sun ´øÆ¤ÇàËñ
-'dai'pi'wu'hua'rou ´øÆ¤Îå»¨Èâ
-'dai'zhi'diao'mei ´øÖ­µñÃ·
-'dai'zhi'mao'dou ´øÖ¦Ã«¶¹
-'dai'zhuang'xian'bai'he ´ü×°ÏÊ°ÙºÏ
-'dan'gao'ji'hua'dai'bao µ°¸â¼·»¨´ü°ü
-'dan'ji µ°¼¦
-'dang'gui µ±¹é
-'dang'shan'li í¸É½Àæ
-'di'men'bo'luo'guan'tou'ping µØÃÅ²¤ÂÜ¹ŞÍ·Æ¿
-'di'men'yu'mi'li'ping µØÃÅÓñÃ×Á£Æ¿
-'dian'fen'dai µí·Û´ü
-'ding'xiang ¶¡Ïã
-'dong'cai ¶¬²Ë
-'dong'chong'xia'cao ¶¬³æÏÄ²İ
-'dong'gu'bai'cu'ping ¶«¹Å°×´×Æ¿
-'dong'gua ¶¬¹Ï
-'dong'gua'tang ¶¬¹ÏÌÇ
-'dong'ji'chi'jian ¶³¼¦³á¼â
-'dong'sha'song'jian ¶³É³ËÉ¼â
-'dong'sun ¶¬Ëñ
-'dong'zao ¶¬Ôæ
-'dou'ban'jiang ¶¹°ê½´
-'dou'ban'jiang'tong ¶¹°ê½´Í°
-'dou'chi'ling'yu'ting ¶¹ôùöìÓãÌı
-'dou'fu ¶¹¸¯
-'dou'fu'cai ¶¹¸¯²Ë
-'dou'fu'gan ¶¹¸¯¸É
-'dou'fu'pi ¶¹¸¯Æ¤
-'dou'fu'pi'xian ¶¹¸¯Æ¤ÏÊ
-'dou'fu'si ¶¹¸¯Ë¿
-'dou'jian ¶¹¼â
-'dou'jiang'dai ¶¹½¬´ü
-'dou'ya ¶¹Ñ¿
-'dou'ya'cai'huang'lv ¶¹Ñ¿²Ë»ÆÂÌ
-'dou'ya'qu'tou'wei ¶¹Ñ¿È¥Í·Î²
-'du'suan'mi ¶ÀËâÃ×
-'duo'wei'xiang'la'jiang'tong'zhuang ¶àÎ¶ÏãÀ±½´Í°×°
-'e'chang ¶ì³¦
-'e'chi ¶ì³á
-'e'zhang ¶ìÕÆ
-'er'cai ¶ù²Ë
-'er'si ¶üË¿
-'fa'xiang ·¨Ïã
-'fan'qie ·¬ÇÑ
-'fan'xi ·¬Î÷
-'fan'xing ·¬ĞÓ
-'fei'cai ·Î²Ë
-'fei'chang ·Ê³¦
-'fei'rou ·ÊÈâ
-'fen'ge ·Û¸ğ
-'fen'si ·ÛË¿
-'feng'che'sheng'fen'dai ·ç³µÉú·Û´ü
-'feng'mi'ping ·äÃÛÆ¿
-'feng'shui'li ·áË®Àæ
-'feng'wei'dou'chi ·çÎ¶¶¹ôù
-'feng'wo'du ·äÎÑ¶Ç
-'fu'ru'ping ¸¯ÈéÆ¿
-'fu'tou'shi'fen'dai ¸«Í·Ê³·Û´ü
-'fu'zhu ¸¯Öñ
-'gai'cai ¸Ç²Ë
-'gan'ba ¸É°Í
-'gan'ba'jun'ban'jiu'cai'hua ¸É°Í¾ú°è¾Â²Ë»¨
-'gan'cao'fen ¸Ê²İ·Û
-'gan'cha'shu'gu ¸É²èÊ÷¹½
-'gan'cong'tou ¸É´ĞÍ·
-'gan'da'cong ¸É´ó´Ğ
-'gan'dou ¸É¶¹
-'gan'dou'fu ¸É¶¹¸¯
-'gan'dou'fu'pi ¸É¶¹¸¯Æ¤
-'gan'hai'dai ¸Éº£´ø
-'gan'hou'tou'gu ¸ÉºïÍ·¹½
-'gan'huang'dou ¸É»Æ¶¹
-'gan'huang'hua'cai ¸É»Æ»¨²Ë
-'gan'ji'you'jun ¸É¼¦ÓÍ¾ú
-'gan'la'jiao ¸ÉÀ±½·
-'gan'la'zi'duan ¸ÉÀ±×Ó¶Î
-'gan'mian'tiao ¸ÉÃæÌõ
-'gan'mu'er ¸ÉÄ¾¶ú
-'gan'niu'gan'jun ¸ÉÅ£¸Î¾ú
-'gan'qiu'bai'la'jiao ¸ÉÇï°×À±½·
-'gan'sha'jiang ¸ÉÉ³½ª
-'gan'xiang'gu ¸ÉÏã¹½
-'gan'yin'er ¸ÉÒø¶ú
-'gao'da'ye'jiang'ting ¸ß´ïÒ¬½´Ìı
-'ge'jie ¸òò»
-'gong'ju ¹±éÙ
-'gou'qi'ye èÛè½Ò¶
-'gou'qi'zi èÛè½×Ó
-'gu'yue'long'shan'hua'diao'jiu'ping ¹ÅÔ½ÁúÉ½»¨µñ¾ÆÆ¿
-'guang'cai'xin ¹ã²ËĞÄ
-'guang'dong'hei'zong'e ¹ã¶«ºÚ×Ú¶ì
-'guang'dong'jie'gua ¹ã¶«½Ú¹Ï
-'guang'dong'la'rou ¹ã¶«À°Èâ
-'guang'dong'liang'gua ¹ã¶«Á¹¹Ï
-'guang'dong'mi'jiu'ping ¹ã¶«Ã×¾ÆÆ¿
-'guang'dong'nan'jiang ¹ã¶«ÄÏ½ª
-'guang'dong'si'gua ¹ã¶«Ë¿¹Ï
-'guang'dong'xiao'tang'cai ¹ã¶«Ğ¡ÌÆ²Ë
-'guang'dong'yan'ju'xiang'liao'bao ¹ã¶«ÑÎŸhÏãÁÏ°ü
-'guang'he'fu'ru'ping ¹ãºÏ¸¯ÈéÆ¿
-'guang'jie'lan ¹ã½æÀ¼
-'guang'wei'xiang'chang ¹ãÎ¶Ïã³¦
-'guang'xi'san'huang'ji ¹ãÎ÷Èı»Æ¼¦
-'guang'xiang'tai'lao'chou'ping ¹ãÏéÌ©ÀÏ³éÆ¿
-'guang'ya ¹âÑ¼
-'gui'lin'la'jiao'jiang'ping ¹ğÁÖÀ±½·½´Æ¿
-'gui'yuan'rou ¹ğÔ²Èâ
-'guo'chan'che'li'zi ¹ú²ú³µÀå×Ó
-'guo'chan'hong'ti ¹ú²úºìÌá
-'guo'chan'mang'guo ¹ú²úÃ¢¹û
-'guo'chan'mi'hou'tao ¹ú²úâ¨ºïÌÒ
-'guo'chan'qing'ti ¹ú²úÇàÌá
-'guo'tai'pai'ji'jing'dai ¹úÌ©ÅÆ¼¦¾«´ü
-'ha'mi'gua ¹şÃÜ¹Ï
-'hai'bai'cai º£°×²Ë
-'hai'cai º£²Ë
-'hai'dai'kuai º£´ø¿é
-'hai'dai'si º£´øË¿
-'hai'ma º£Âí
-'hai'shen'pi º£²ÎÆ¤
-'hai'tian'cao'gu'lao'chou'sheng º£Ìì²İ¹½ÀÏ³éÉı
-'hai'tian'jin'biao'sheng'chou'ping º£Ìì½ğ±êÉú³éÆ¿
-'hai'tian'jin'biao'sheng'chou'sheng º£Ìì½ğ±êÉú³éÉı
-'hai'zhe'pi º£òØÆ¤
-'hai'zhe'si º£òØË¿
-'han'guo'you'sha'tang º«¹úÓ×É°ÌÇ
-'hao'fei'rou ºÃ·ÊÈâ
-'hao'ji'ji'jing'bao ºÀ¼ª¼¦¾«°ü
-'hao'mo'rou ºÃÄ¥Èâ
-'he'fen'bao ºÓ·Û°ü
-'he'lan'dou ºÉÀ¼¶¹
-'he'tao'hua ºËÌÒ»¨
-'he'tao'ren ºËÌÒÈÊ
-'he'tao'ren'bao ºËÌÒÈÊ°ü
-'hei'da'tou ºÚ´óÍ·
-'hei'dou'fu'gan ºÚ¶¹¸¯¸É
-'hei'jiao'sui'zhen'xiang'ji'ping ü\½·ËéÕçÏë¼ÇÆ¿
-'hei'lian'yu ºÚöãÓã
-'hei'mei'ren'xi'gua ºÚÃÀÈËÎ÷¹Ï
-'hei'mu'er'zui'hao ºÚÄ¾¶ú×îºÃ
-'hong'cai'jiao ºì²Ê½·
-'hong'cai'tai ºì²ËÌ¦
-'hong'che'li'zi'ping ºì³µÀå×ÓÆ¿
-'hong'cong'tou ºì´ĞÍ·
-'hong'dou ºì¶¹
-'hong'dou'mi ºì¶¹Ã×
-'hong'dou'sha ºì¶¹É³
-'hong'fan'dou ºì·¹¶¹
-'hong'han'cai ºìºµ²Ë
-'hong'hua'sheng'mi ºì»¨ÉúÃ×
-'hong'jian'jiao ºì¼â½·
-'hong'lian'rong ºìÁ«ÈØ
-'hong'mei'gui ºìÃµ¹å
-'hong'pi'luo'bo ºìÆ¤ÂÜ²·
-'hong'pi'qing'suan ºìÆ¤ÇàËâ
-'hong'qu'mi ºìÇúÃ×
-'hong'shan'yao ºìÉ½Ò©
-'hong'shen'xu ºì²ÎĞë
-'hong'shu ºìÊí
-'hong'tang ºìÌÇ
-'hong'tang'san ºìÌÇÉ¢
-'hong'ti ºìÌá
-'hong'xi'jian'jiao ºìÏ¸¼â½·
-'hong'xiao'fan'qie ºìĞ¡·¬ÇÑ
-'hong'xiao'mi'cai ºìĞ¡Ã×²Ë
-'hong'xiao'mi'la ºìĞ¡Ã×À±
-'hong'xiao'qiang'wei'ba ºìĞ¡Ç¾Ş±°Ñ
-'hong'yang'cong ºìÑó´Ğ
-'hong'zao ºìÔæ
-'hong'zhou'pi'jiao ºìÖåÆ¤½·
-'hong'zhou'qing'jiao ºìÖåÇà½·
-'hou'tui'rou ºóÍÈÈâ
-'hou'tui'rou'mo ºóÍÈÈâÄ¥
-'hou'tui'rou'pian ºóÍÈÈâÆ¬
-'hou'tui'shou'rou ºóÍÈÊİÈâ
-'hou'zhou ºóÖâ
-'hu'jiao'fen ºú½··Û
-'hu'jiao'fen'bao ºú½··Û°ü
-'hu'la'jiao'fen ºúÀ±½··Û
-'hu'lu'gua ºúÂ«¹Ï
-'hu'lu'gua ºùÂ«¹Ï
-'hu'luo'bo ºúÂÜ²·
-'hu'zhang'jun »¢ÕÆ¾ú
-'hua'bian'sheng'cai »¨±ßÉú²Ë
-'hua'bian'sheng'cai'tang'sheng'cai »¨±ßÉú²ËÌÆÉú²Ë
-'hua'dian'zhi'bao »¨µæÖ½°ü
-'hua'jiao »¨½·
-'hua'jiao'ye »¨½·Ò¶
-'hua'lian'yu'tou »¨öãÓãÍ·
-'hua'pi'xi'gua »¨Æ¤Î÷¹Ï
-'hua'qi'shen »¨Æì²Î
-'hua'sheng »¨Éú
-'hua'xi'pai'bai'pi'ji'dan »ªêØÅÆ°×Æ¤¼¦µ°
-'hua'xi'pai'huang'pi'ji'dan »ªêØÅÆ»ÆÆ¤¼¦µ°
-'huang'cai'jiao »Æ²Ê½·
-'huang'di'gong'ju »ÊµÛ¹±éÙ
-'huang'di'jiao »ÊµÛ½¶
-'huang'dou »Æ¶¹
-'huang'dou'fu »Æ¶¹¸¯
-'huang'dou'fu'gan »Æ¶¹¸¯¸É
-'huang'dou'tiao'he'you »Æ¶¹µ÷ºÍÓÍ
-'huang'dou'ya »Æ¶¹Ñ¿
-'huang'gua »Æ¹Ï
-'huang'hou »Æºí
-'huang'jiang »Æ½ª
-'huang'jin'da'bing »Æ½ğ´ó±ı
-'huang'jin'li »Æ½ğÀæ
-'huang'ning'meng »ÆÄûÃÊ
-'huang'qi'zi »Æè½×Ó
-'huang'qiu'kui »ÆÇï¿û
-'huang'xiang'gua »ÆÏã¹Ï
-'huang'xiao'fan'qie »ÆĞ¡·¬ÇÑ
-'huang'xin'yang'yu »ÆĞÄÑóÓó
-'hui'dan »Òµ°
-'hui'dan'ge »Òµ°¸ö
-'hui'tiao'cai »ÒÌô²Ë
-'hui'xiang ÜîÏã
-'hui'xiang'jian ÜîÏã¼â
-'huo'guo'mian'jian »ğ¹øÃæ¼ş
-'huo'ji »ğ¼¦
-'huo'jian »ğ¼î
-'huo'long'guo »ğÁú¹û
-'huo'xiang »ôÏã
-'ji'cai Üù²Ë
-'ji'dan ¼¦µ°
-'ji'gu'jia'jian ¼¦¹Ç¼Ü¼ş
-'ji'jiao ¼¦½Å
-'ji'jiao'zai ¼¦½Å×Ğ
-'ji'jing'dai ¼¦¾«´ü
-'ji'pu'rou ¼¦¸¬Èâ
-'ji'rou ¼¹Èâ
-'ji'rou'jing'gao'ping ¼¦Èâ¾«¸àÆ¿
-'ji'tui ¼¦ÍÈ
-'ji'tui'gu ¼¦ÍÈ¹½
-'ji'tui'jian ¼¦ÍÈ¼ş
-'ji'xiao'tui ¼¦Ğ¡ÍÈ
-'ji'xue ¼¦Ñª
-'ji'you ¼¦ÓÍ
-'ji'you'jun ¼¦ÓÍ¾ú
-'ji'yu öêÓã
-'ji'zhen ¼¦ëÓ
-'jia'dou ¼Ô¶¹
-'jia'le'la'xian'lu'ping ¼ÒÀÖÀ±ÏÊÂ¶Æ¿
-'jia'le'li'fen'bao ¼ÒÀÖÀõ·Û°ü
-'jia'le'nong'suo'ji'zhi'ping ¼ÒÀÖÅ¨Ëõ¼¦Ö­Æ¿
-'jia'le'pai'xian'lu'ping ¼ÒÀÖÅÆÏÊÂ¶Æ¿
-'jia'le'song'rou'fen'bao ¼ÒÀÖËÉÈâ·Û°ü
-'jia'le'suan'xiang'fen'bao ¼ÒÀÖËâÏã·Û°ü
-'jia'tu ¼ÒÍÃ
-'jia'xin'bing'gan ¼ĞĞÄ±ı¸É
-'jia'yu ¼×Óã
-'jia'yu'qun'bian ¼×ÓãÈ¹±ß
-'jian'lin'mi'du'yan'cai'dai ½¨ÁÜÃÖ¶Éëç²Ë´ü
-'jian'qing'jiao ¼âÇà½·
-'jiang'bing'gua ½ª±ı¹Ï
-'jiang'dou ôø¶¹
-'jiang'dou'chi ½ª¶¹ôù
-'jiang'si'sui'pao'jiao ½ªË¿ËéÅİ½·
-'jiao'gua Üú¹Ï
-'jie'bing ½æ±ı
-'jie'chu'dou'chi'lao'gan'ma ½Ü³ø¶¹ôùÀÏ¸ÉÂè
-'jin'ba'cheng'zhi'ping ¾¢°Ô³ÈÖ­Æ¿
-'jin'ba'ji'rou'zhi'ping ¾¢°Ô¼¦ÈâÖ­Æ¿
-'jin'ba'ning'meng'zhi'ping ¾¢°ÔÄûÃÊÖ­Æ¿
-'jin'ba'niu'rou'zhi'ping ¾¢°ÔÅ£ÈâÖ­Æ¿
-'jin'er ½ğ¶ú
-'jin'gang'dou ½ğ¸Õ¶¹
-'jin'gua ½ğ¹Ï
-'jin'hua'cai ½ğ»¨²Ë
-'jin'hua'huo'tui ½ğ»ª»ğÍÈ
-'jin'hua'li ½ğ»¨Àæ
-'jin'jiang'bai'lan'di'ping ½ğ½±°×À¼µØÆ¿
-'jin'jie ½ğ½æ
-'jin'ju ½ğ½Û
-'jin'ju ½ğéÙ
-'jin'kou'bai'wei'yan'ping ½ø¿Ú°×Î¶ÑÎÆ¿
-'jin'kou'che'li'zi ½ø¿Ú³µÀå×Ó
-'jin'kou'e'zhang'jian ½ø¿Ú¶ìÕÆ¼ş
-'jin'kou'hong'she ½ø¿ÚºìÉß
-'jin'kou'hong'ti ½ø¿ÚºìÌá
-'jin'kou'ji'chi ½ø¿Ú¼¦³á
-'jin'kou'mi'hou'tao ½ø¿Úâ¨ºïÌÒ
-'jin'kou'mu'gua ½ø¿ÚÄ¾¹Ï
-'jin'kou'ning'meng ½ø¿ÚÄûÃÊ
-'jin'kou'qing'she ½ø¿ÚÇàÉß
-'jin'kou'qing'ti ½ø¿ÚÇàÌá
-'jin'kou'xiang'jiao ½ø¿ÚÏã½¶
-'jin'long'hua'sheng'you'tong ½ğÁú»¨ÉúÓÍÍ°
-'jin'long'yu'tiao'he'you ½ğÁúÓãµ÷ºÍÓÍ
-'jin'qian'du ½ğÇ®¶Ç
-'jin'que'hua ½ğÈ¸»¨
-'jin'xiang'mian'fen'dai ½ğÏóÃæ·Û´ü
-'jin'zhen'dou'ban'jiang'tong ½õÕä¶¹°ê½´Í°
-'jin'zhen'gu ½ğÕë¹½
-'jin'zhen'gu'bao ½ğÕë¹½°ü
-'jin'zhen'lao'chou'ping ½õÕäÀÏ³éÆ¿
-'jin'zhen'lao'chou'tong ½õÕäÀÏ³éÍ°
-'jin'zuan'tian'nai'you'ping ½ğ×êÌğÄÌÓÍÆ¿
-'jing'bai'cai ¾©°×²Ë
-'jing'ban'you ¾»°åÓÍ
-'jing'chang'tou ¾»³¦Í·
-'jing'chang'tou'qu'you ¾»³¦Í·È¥ÓÍ
-'jing'da'cong ¾»´ó´Ğ
-'jing'dou'jian ¾»¶¹¼â
-'jing'hou'tui'rou ¾»ºóÍÈÈâ
-'jing'jie ¾£½æ
-'jing'shou'rou ¾»ÊİÈâ
-'jing'sun'tou ¾»ËñÍ·
-'jing'xi'lan'hua ¾»Î÷À¼»¨
-'jiu'cai ¾Â²Ë
-'jiu'cai'gen ¾Â²Ë¸ù
-'jiu'cai'hua'gan'ba'jun ¾Â²Ë»¨¸É°Í¾ú
-'jiu'cai'tai ¾Â²ËÌ¦
-'jiu'huang ¾Â»Æ
-'jiu'jiang'shuang'zheng'jiu'ping ¾Å½­Ë«Õô¾ÆÆ¿
-'ju'feng'pu'tao ¾Ş·áÆÏÌÑ
-'ju'hua'cai ¾Õ»¨²Ë
-'juan'fen ¾í·Û
-'juan'mao'jiu'cai ¾íÃ«¾Â²Ë
-'juan'mao'jiu'huang ¾íÃ«¾Â»Æ
-'jue'gen'fen'dai ØÊ¸ù·Û´ü
-'ka'fu'qi'miao'jiang'ping ¿¨·òÆæÃî½´Æ¿
-'ka'li'guo ¿§Àş¹û
-'kang'nai'xin'ba ¿µÄËÜ°°Ñ
-'kang'nai'xin'duo ¿µÄËÜ°¶ä
-'kao'zi'cai'dai ¿¾×Ï²Ë´ü
-'kong'xin'cai ¿ÕĞÄ²Ë
-'kong'xin'cai'tong'cai ¿ÕĞÄ²ËÍ¨²Ë
-'kou'zhao'he ¿ÚÕÖºĞ
-'ku'ci'hua ¿à´Ì»¨
-'ku'gua ¿à¹Ï
-'ku'liang'cai ¿àÁ¹²Ë
-'ku'zi'guo ¿à×Ó¹û
-'kui'ye'ba ¿üÒ¶°Ñ
-'la'jiao'mian À±½·Ãæ
-'la'pi À­Æ¤
-'la'zi'jian À±×Ó¼â
-'lan'hua À¼»¨
-'lan'hua'ba À¼»¨°Ñ
-'lan'hua'bao À¼»¨°ü
-'lao'chen'cu'ping ÀÏ³Â´×Æ¿
-'lao'chou'ping ÀÏ³éÆ¿
-'lao'dou'fu ÀÏ¶¹¸¯
-'lao'gan'ma'shui'dou'chi ÀÏ¸ÉÂèË®¶¹ôù
-'lao'gan'ma'shui'dou'chi'ping ÀÏ¸ÉÂèË®¶¹ôùÆ¿
-'lao'gan'ma'you'dou'chi'ping ÀÏ¸ÉÂèÓÍ¶¹ôùÆ¿
-'lao'jiang ÀÏ½ª
-'lao'jiang ÀÏ½´
-'lao'mu'ji ÀÏÄ¸¼¦
-'lao'nan'gua ÀÏÄÏ¹Ï
-'lao'po'bing ÀÏÆÅ±ı
-'lao'sheng'jiang ÀÏÉú½ª
-'lao'tu'ji ÀÏÍÁ¼¦
-'lao'xiang'yu ÀÏÏãÓó
-'lao'ya ÀÏÑ¼
-'li'hao Àóİï
-'li'hao Àèİï
-'li'hong'hua'jiao'you'ping Àèºì»¨½·ÓÍÆ¿
-'li'ji'rou Àï¼¹Èâ
-'li'jin'ji'cai'shen'hao'you'ping Àî½õ¼Ç²ÆÉñºÄÓÍÆ¿
-'li'jin'ji'cha'shao'jiang'ping Àî½õ¼Ç²æÉÕ½´Æ¿
-'li'jin'ji'dou'ban'jiang'ping Àî½õ¼Ç¶¹°ê½´Æ¿
-'li'jin'ji'hai'xian'jiang'ping Àî½õ¼Çº£ÏÊ½´Æ¿
-'li'jin'ji'jing'xuan'sheng'chou'tong Àî½õ¼Ç¾«Ñ¡Éú³éÍ°
-'li'jin'ji'jiu'zhuang'hao'you'ping Àî½õ¼Ç¾É×¯ºÄÓÍÆ¿
-'li'jin'ji'pai'gu'jiang'ping Àî½õ¼ÇÅÅ¹Ç½´Æ¿
-'li'jin'ji'suan'rong'jiang'ping Àî½õ¼ÇËâÈØ½´Æ¿
-'li'jin'ji'xia'jiang'ping Àî½õ¼ÇÏº½´Æ¿
-'li'jin'ji'zheng'yu'chi'you'ping Àî½õ¼ÇÕôÓãôùÓÍÆ¿
-'li'jin'ji'zhu'hou'jiang'ping Àî½õ¼ÇÖùºò½´Æ¿
-'li'pai'lin'ji'zhi'ping ÀîÅÉÁÖ¼±Ö­Æ¿
-'li'pu'yu'tou ÀóÆÖÓóÍ·
-'li'pu'yu'tou ÀóÆÑÓóÍ·
-'li'yu ÀğÓã
-'li'zhi ÀóÖ¦
-'lian'hua'bai Á«»¨°×
-'lian'ou Á«Åº
-'liang'gua Á¹¹Ï
-'liao'ning'gu'sui'jin'gao'ping ÁÉÄş¹ÇËè½ş¸àÆ¿
-'ling'zhi ÁéÖ¥
-'liu'lian ÁñÁ«
-'long'feng'hua'juan'dai Áú·ï»¨¾í´ü
-'long'gu Áú¹Ç
-'long'kou'fen'si'dai Áú¿Ú·ÛË¿´ü
-'long'yan ÁúÑÛ
-'long'yan'cai ÁúÑÛ²Ë
-'long'zhua'cai Áú×¦²Ë
-'long'zhua'cai'jue'cai Áú×¦²ËŞ§²Ë
-'lu'dou'fu'gan Â±¶¹¸¯¸É
-'lu'hua'hua'sheng'you'tong Â³»¨»¨ÉúÓÍÍ°
-'lu'hui Â«Üö
-'lu'niu'rou Â±Å£Èâ
-'lu'sun Â«Ëñ
-'luo'ba'yu'jiao'fen'tong ÂŞ°ÎÓã½º·ÛÍ°
-'luo'bo'gan ÂÜ²·¸É
-'luo'fei'yu ÂŞ·ÇÓã
-'luo'han'guo'ge ÂŞºº¹û¸ö
-'luo'han'sun'bao ÂŞººËñ°ü
-'luo'ping'huang'jiang ÂŞÆ½»Æ½ª
-'lv'che'li'zi'ping ÂÌ³µÀå×ÓÆ¿
-'lv'dou'ya ÂÌ¶¹Ñ¿
-'lv'qin'cai ÂÌÇÛ²Ë
-'lv'xi'jian'jiao ÂÌÏ¸¼â½·
-'lv'xiao'mi'cai ÂÌĞ¡Ã×²Ë
-'lv'xiao'mi'la ÂÌĞ¡Ã×À±
-'ma'la'jiang'tong'zhuang ÂéÀ±½´Í°×°
-'ma'la'luo'bo'gan ÂéÀ±ÂÜ²·¸É
-'ma'nai'pu'tao ÂíÄÌÆÏÌÑ
-'ma'ti ÂíÌã
-'ma'ti'cai ÂíÌã²Ë
-'ma'ti'rou ÂíÌãÈâ
-'mai'ya'tang'ping ÂóÑ¿ÌÇÆ¿
-'man'tian'xing'ba ÂúÌìĞÇ°Ñ
-'mao'dou'mi Ã«¶¹Ã×
-'mao'yu'tou Ã«ÓóÍ·
-'mei'gui'hua'duo Ãµ¹å»¨¶ä
-'mei'ji'xian'wei'zhi'ping ÃÀ¼«ÏÊÎ¶Ö­Æ¿
-'mei'mei'mian'fen'dai ÃÀÃµÃæ·Û´ü
-'mei'ren'jiao ÃÀÈË½·
-'mi'dou ÃÛ¶¹
-'mi'dou'tian'cui'dou ÃÛ¶¹Ìğ´à¶¹
-'mi'du'yan'cai ÃÖ¶Éëç²Ë
-'mi'du'yan'cai'jian ÃÖ¶Éëç²Ë¼ş
-'mi'ju ÃÛ½Û
-'mi'xian Ã×Ïß
-'mi'you ÃÛèÖ
-'mian'bao'gai'liang'ji'bao Ãæ°ü¸ÄÁ¼¼Á°ü
-'mian'bao'kang'bao Ãæ°ü¿·°ü
-'mian'bao'tang'bao Ãæ°üÌÇ°ü
-'miao'duo'ga'li'gao'ping Ãî¶à¿§à¬¸àÆ¿
-'mo'chi'jiang'ping Ä¥ôù½´Æ¿
-'mo'hou'tui'rou Ä¥ºóÍÈÈâ
-'mo'li'hua ÜÔÀò»¨
-'mo'qian'tui'rou Ä¥Ç°ÍÈÈâ
-'mo'qie'zi Ä«ÇÑ×Ó
-'mo'yu'dou'fu Ä¥Óó¶¹¸¯
-'mo'yu'dou'fu Ä§Óó¶¹¸¯
-'mu'er'cai Ä¾¶ú²Ë
-'mu'gua Ä¾¹Ï
-'mu'gua'jian Ä¾¹Ï¼ş
-'nai'fen'dai ÄÌ·Û´ü
-'nan'bei'xing ÄÏ±±ĞÓ
-'nan'gua ÄÏ¹Ï
-'nan'gua'bing ÄÏ¹Ï±ı
-'nan'gua'bing'jian ÄÏ¹Ï±ı¼ş
-'nan'gua'jian ÄÏ¹Ï¼â
-'nan'jiang ÄÏ½ª
-'nan'jing'dou ÄÏ¾©¶¹
-'nan'pai ëîÅÅ
-'nan'ru'ping ÄÏÈéÆ¿
-'nei'zhi'dou'fu'he ÄÚÖ¬¶¹¸¯ºĞ
-'nei'zhi'dou'fu'he ÄÚõ¥¶¹¸¯ºĞ
-'nen'dou'fu ÄÛ¶¹¸¯
-'nen'xiao'ku'cai ÄÛĞ¡¿à²Ë
-'ni'ou ÄàÅº
-'ni'qiu'da Äàöú´ó
-'ni'qiu'xiao ÄàöúĞ¡
-'ning'meng'huang'se'su'ping ÄûÃÊ»ÆÉ«ËØÆ¿
-'niu'bei'jin Å£±³½î
-'niu'fan'he Å£·¹ºĞ
-'niu'gan'ba Å£¸É°Í
-'niu'jian'zi Å£½¨×Ó
-'niu'lin Å£ÁØ
-'niu'nan Å£ëî
-'niu'pi'cai Å£Æ¤²Ë
-'niu'rou Å£Èâ
-'niu'rou'qiu Å£ÈâÇò
-'niu'she Å£Éà
-'niu'tui'gua Å£ÍÈ¹Ï
-'niu'tui'rou Å£ÍÈÈâ
-'niu'wei'tang'ping Å£Î²ÌÀÆ¿
-'niu'xin Å£ĞÄ
-'niu'you Å£ÓÍ
-'niu'zhan Å£Õ¹
-'nuo'mi Å´Ã×
-'pai'gu ÅÅ¹Ç
-'pai'gu'rou ÅÅ¹ÇÈâ
-'pan'tai'tian'la'ji'jiang'ping ÅËÌ©ÌğÀ±¼¦½´Æ¿
-'pan'zhi'hua ÅÊÖ¦»¨
-'pan'zhi'hua'dai ÅÊÖ¦»¨´ü
-'pang'dou'ya ÅÖ¶¹Ñ¿
-'pao'da'suan Åİ´óËâ
-'pao'da'suan'jian Åİ´óËâ¼ş
-'pao'dou'jiao Åİ¶¹½Ç
-'pao'fu ÅİÜ½
-'pao'gao'yuan'hong'xiao'mi'la'jian Åİ¸ßÔ­ºìĞ¡Ã×À±¼ş
-'pao'gao'yuan'lv'xiao'mi'la'jian Åİ¸ßÔ­ÂÌĞ¡Ã×À±¼ş
-'pao'hong'jiao Åİºì½·
-'pao'hong'xiao'mi'la ÅİºìĞ¡Ã×À±
-'pao'jiang Åİ½ª
-'pao'jiang'dou Åİôø¶¹
-'pao'jiang'pian Åİ½ªÆ¬
-'pao'jiao Åİ½·
-'pao'jiao'tou ÅİËŠÍ·
-'pao'lv'xiao'mi'la ÅİÂÌĞ¡Ã×À±
-'peng'gan —Õ¸Ì
-'peng'gua Åõ¹Ï
-'pi'dan'ge Æ¤µ°¸ö
-'pi'pa èÁèË
-'pi'xian'dou'ban'jiang'tong'zhuang Û¯ÏØ¶¹°ê½´Í°×°
-'piao'bai'shui Æ¯°×Ë®
-'piao'gua Æ°¹Ï
-'piao'xiang'ji'zhi Æ®Ïã¼¦Ö»
-'pie'lan ÜÖÀ¼
-'pie'lan ÜÖÀ¶
-'ping'guo Æ»¹û
-'pu'ning'dou'jiang'ping ÆÕÄş¶¹½´Æ¿
-'pu'tao'gan ÆÏÌÑ¸É
-'pu'tong'e'zhang'jian ÆÕÍ¨¶ìÕÆ¼ş
-'pu'tong'er'kuai'ge ÆÕÍ¨¶ü¿é¸ö
-'qi'dian'lao'jiang ÆßµéÀÏ½´
-'qi'dian'lu'fu'xiao'guan ÆßµéÂ±¸¯Ğ¡¹Ş
-'qi'dian'lu'fu'xiao'ping'jian ÆßµéÂ±¸¯Ğ¡Æ¿¼ş
-'qi'dian'lu'fu'zhong'guan ÆßµéÂ±¸¯ÖĞ¹Ş
-'qi'dian'san'zhuang'lu'fu ÆßµéÉ¢×°Â±¸¯
-'qian'tui'rou Ç°ÍÈÈâ
-'qian'zhou Ç°Öâ
-'qie'zhi'ping ÇÑÖ­Æ¿
-'qie'zi ÇÑ×Ó
-'qie'zi'zha ÇÑ×ÓÕ¥
-'qie'zi'zha ÇÑ×ÓÔü
-'qin'cai ÇÛ²Ë
-'qing'cai'xin Çà²ËĞÄ
-'qing'can'dou'mi Çà²Ï¶¹Ã×
-'qing'cong Çà´Ğ
-'qing'dou'jiao Çà¶¹½Ç
-'qing'hua'cai Çà»¨²Ë
-'qing'jian'jiao Çà¼â½·
-'qing'ning'meng ÇàÄûÃÊ
-'qing'suan'miao ÇàËâÃç
-'qing'suan'ye ÇàËâÒ¶
-'qing'sun ÇàËñ
-'qing'sun'jian ÇàËñ¼â
-'qing'xiao'mi'la ÇàĞ¡Ã×À±
-'qing'zao ÇàÔæ
-'qu'gu'ya'zhang'pi'bao È¥¹ÇÑ¼ÕÆÆ¤°ü
-'qu'ke'can'dou È¥¿Ç²Ï¶¹
-'qu'pi'bao'gu'bang È¥Æ¤°ü¹È°ô
-'qu'pi'bi'qi È¥Æ¤İ©Üù
-'qu'pi'hou'tui'rou È¥Æ¤ºóÍÈÈâ
-'qu'pi'jiang È¥Æ¤½ª
-'qu'pi'jiao'gua È¥Æ¤Üú¹Ï
-'qu'pi'lao'jiang È¥Æ¤ÀÏ½ª
-'qu'pi'mao'yu'tou È¥Æ¤Ã«ÓóÍ·
-'qu'pi'nan'gua È¥Æ¤ÄÏ¹Ï
-'qu'pi'qian'tui'rou È¥Æ¤Ç°ÍÈÈâ
-'qu'pi'qing'sun È¥Æ¤ÇàËñ
-'qu'pi'shan'yao È¥Æ¤É½Ò©
-'qu'pi'wu'hua'rou È¥Æ¤Îå»¨Èâ
-'qu'pi'yang'yu È¥Æ¤ÑóÓó
-'quan'zhi'zhu'jiao È«Ö§Öí½Å
-'que'chao'nai'fen'bao È¸³²ÄÌ·Û°ü
-'que'dou È¸¶¹
-'ren'gong'jun ÈË¹¤¾ú
-'ren'shen'cai ÈË²Î²Ë
-'ri'ben'dou'fu ÈÕ±¾¶¹¸¯
-'ri'ben'dou'fu'jian ÈÕ±¾¶¹¸¯¼ş
-'ri'ben'dou'fu'tiao ÈÕ±¾¶¹¸¯Ìõ
-'ri'ben'qing'jie'la'ping ÈÕ±¾Çà½éÀ±Æ¿
-'ri'ben'sheng'qing'jiu'ping ÈÕ±¾Ê¢Çå¾ÆÆ¿
-'ri'ben'sheng'yu'shou'si'jiang'you'ping ÈÕ±¾ÉúÓãÊÙË¾½´ÓÍÆ¿
-'ri'ben'xiao'huang'gua ÈÕ±¾Ğ¡»Æ¹Ï
-'ri'luo'hong'se'su'ping ÈÕÂäºìÉ«ËØÆ¿
-'rou'ji Èâ¼¦
-'ru'bing Èé±ı
-'ru'ge'zhi Èé¸ëÖ»
-'ru'shan ÈéÉÈ
-'ru'yang ÈéÑò
-'ruan'pai'gu ÈíÅÅ¹Ç
-'san'hua'dan'nai'bao Èı»¨µ­ÄÌ°ü
-'san'huang'ji Èı»Æ¼¦
-'san'jiao'pai'ri'luo'hong'bao Èı½ÇÅÆÈÕÂäºì°ü
-'san'nai ÈıÄÎ
-'san'tou'bai'he ÈıÍ·°ÙºÏ
-'san'wen'zhi'huo'tui'kuai ÈıÎÄÖÎ»ğÍÈ¿é
-'san'wen'zhi'huo'tui'tiao ÈıÎÄÖÎ»ğÍÈÌõ
-'san'xiang'pai'nuo'mi'fen'bao ÈıÏóÅÆÅ´Ã×·Û°ü
-'san'xiang'pai'zuan'mi'fen'bao ÈıÏóÅÆ×êÃ×·Û°ü
-'san'zhuang'bai'jiu É¢×°°×¾Æ
-'san'zhuang'lu'fu É¢×°Â±¸¯
-'san'zhuang'xian'bai'he É¢×°ÏÊ°ÙºÏ
-'san'zhuang'xiang'la'jiang É¢×°ÏãÀ±½´
-'san'zhuang'yan'cai É¢×°ëç²Ë
-'san'zhuang'zha'cai'si'jian É¢×°Õ¥²ËË¿¼ş
-'se'la'you É«À­ÓÍ
-'sha'hao'cao'yu É±ºÃ²İÓã
-'sha'hao'ji'yu É±ºÃöêÓã
-'sha'hao'you'yu É±ºÃöÏÓã
-'sha'jiang É³½ª
-'sha'jiang'fen'bao É³½ª·Û°ü
-'sha'shen É³²Î
-'sha'song'jian É³ËÉ¼â
-'sha'zhi'zhang É³Ö½ÕÅ
-'shan'dong'dong'ya É½¶«¶³Ñ¼
-'shan'dong'huang'jiang É½¶«»Æ½ª
-'shan'gu ÉÈ¹Ç
-'shan'xi'lao'chen'cu'ping É½Î÷ÀÏ³Â´×Æ¿
-'shan'yao É½Ò©
-'shan'yu ÷­Óã
-'shan'zhu É½Öñ
-'shao'dou'fu'dai ÉÕ¶¹¸¯´ü
-'shao'fen Üæ·Û
-'sheng'cai Éú²Ë
-'sheng'chang Éú³¦
-'sheng'jiang Éú½ª
-'sheng'nv'guo Ê¥Å®¹û
-'sheng'tai'xiao'huang'gua ÉúÌ¬Ğ¡»Æ¹Ï
-'sheng'tai'xiao'qie'zi ÉúÌ¬Ğ¡ÇÑ×Ó
-'sheng'zhu'er ÉúÖí¶ú
-'sheng'zhu'kou'tiao ÉúÖí¿ÚÌõ
-'sheng'zhu'xin ÉúÖíĞÄ
-'shi'fu'tian'jia'ji'bao Ê¦¸µÌí¼Ó¼Á°ü
-'shi'gao'fen Ê¯¸à·Û
-'shi'hua'cai Ê¯»¨²Ë
-'shi'jin'guo'jiang'ping Ê²½õ¹û½´Æ¿
-'shi'jin'jiang Ê²½õ½´
-'shi'jin'jiang'dai'zhuang Ê²½õ½´´ü×°
-'shi'jin'jiang'guan'zhuang Ê²½õ½´¹Ş×°
-'shi'liu Ê¯Áñ
-'shi'liu'hua Ê¯Áñ»¨
-'shi'pai'ji'shi'fen'tong Ê¨ÅÆ¼ªÊ¿·ÛÍ°
-'shi'ping'dou'fu Ê¯ÆÁ¶¹¸¯
-'shi'ping'dou'fu'kuai Ê¯ÆÁ¶¹¸¯¿é
-'shi'san'xiang'he Ê®ÈıÏãºĞ
-'shi'you'pao'da'fen'tong ÊµÓÑÅİ´ò·ÛÍ°
-'shu'bai'yun'dou Êì°×ÔÆ¶¹
-'shu'fan'qie Ê÷·¬ÇÑ
-'shu'gua Ê÷¹Ï
-'shu'hong'dou Êìºì¶¹
-'shu'pian ÊíÆ¬
-'shu'tiao ÊíÌõ
-'shu'zhi'ma'jiang ÊìÖ¥Âé½´
-'shu'zhu'er ÊìÖí¶ú
-'shu'zhu'kou'tiao ÊìÖí¿ÚÌõ
-'shu'zhu'xin ÊìÖíĞÄ
-'shuang'he'mei'gui'lu'jiu'ping Ë«º×Ãµ¹åÂ¶¾ÆÆ¿
-'shuang'hui'huo'tui'chang'jian Ë«»ã»ğÍÈ³¦¼ş
-'shuang'hui'wu'can'rou'san'wen'zhi Ë«»ãÎç²ÍÈâÈıÎÄÖÎ
-'shuang'qiao'pai'wei'jing Ë«ÇÅÅÆÎ¶¾«
-'shuang'xi'pao'da'fen'tong Ë«Ï²Åİ´ò·ÛÍ°
-'shui'dou'chi Ë®¶¹ôù
-'shui'dou'fu Ë®¶¹¸¯
-'shui'dou'hua Ë®¶¹»¨
-'shui'fa'hai'dai'si Ë®·¢º£´øË¿
-'shui'fa'mu'er Ë®·¢Ä¾¶ú
-'shui'fa'niu'bai'ye Ë®·¢Å£°×Ò¶
-'shui'fa'rou'pi Ë®·¢ÈâÆ¤
-'shui'fa'zhu'huang'hou Ë®·¢Öí»Æºí
-'shui'fa'zhu'sun'si Ë®·¢ÖñËñË¿
-'shui'guo Ë®¹û
-'shui'jie'cai Ë®½Ú²Ë
-'shui'jing'hua'ba Ë®¾§»¨°Ñ
-'shui'jue'cai Ë®Ş§²Ë
-'shui'luo'bo'si Ë®ÂÜ²·Ë¿
-'shui'luo'bo'tiao Ë®ÂÜ²·Ìõ
-'shui'mi'tao Ë®ÃÛÌÒ
-'shui'mi'tao'guan'tou'ping Ë®ÃÛÌÒ¹ŞÍ·Æ¿
-'shui'xiang'cai Ë®Ïã²Ë
-'shui'yan'cai Ë®ëç²Ë
-'si'chuan'hong'jie ËÄ´¨ºì½Û
-'si'chuan'huang'jiang ËÄ´¨»Æ½ª
-'si'chuan'xin'jiang ËÄ´¨ĞÂ½ª
-'si'gua Ë¿¹Ï
-'si'ji'bao'hua'sheng'jiang'ping ËÄ¼¾±¦»¨Éú½´Æ¿
-'si'ji'dou ËÄ¼¾¶¹
-'si'liao'tu'ji ËÇÁÏÍÁ¼¦
-'si'nian'you'tiao Ë¼ÄîÓÍÌõ
-'song'hua'dan'ge ËÉ»¨µ°¸ö
-'suan'cai Ëá²Ë
-'suan'cai'jian Ëá²Ë¼ş
-'suan'cai'yu'zuo'liao Ëá²ËÓã×ôÁÏ
-'suan'cai'yu'zuo'liao'jian Ëá²ËÓã×ôÁÏ¼ş
-'suan'jiang'dou Ëáôø¶¹
-'suan'jiang'dou'fu Ëá½¬¶¹¸¯
-'suan'mi ËâÃ×
-'suan'sun ËáËñ
-'suan'sun'si ËáËñË¿
-'suan'tai ËâÌ¦
-'suan'xiang'gu'bao ËâÏã¹Ç°ü
-'suo'yang ËøÑô
-'ta'hua'cai Ëş»¨²Ë
-'tai'guo'ju Ì©¹ú½Û
-'tai'guo'la'ji'zhi'ping Ì©¹úÀ±¼¦Ö­Æ¿
-'tai'guo'li'zhi Ì©¹úÀóÖ¦
-'tai'guo'xi'mi'ping Ì©¹úÎ÷Ã×Æ¿
-'tai'guo'yu'lu'ping Ì©¹úÓãÂ¶Æ¿
-'tai'he'dou'chi Ì«ºÍ¶¹ôù
-'tai'he'dou'gu Ì«ºÍ¶¹¹Ä
-'tai'tai'le'wei'fen'bao Ì«Ì«ÀÖÎ¶·Û°ü
-'tai'yang'hua'duo Ì«Ñô»¨¶ä
-'tang'chi'lao'jiang ÌÀ³ØÀÏ½´
-'tang'dai'ge ÌÀ´ü¸ö
-'tang'li'hua ÌÄÀæ»¨
-'tang'li'hua'ping ÌÄÀæ»¨Æ¿
-'tang'pai ÌÆÅÅ
-'te'hui'ha'mi'gua ÌØ»İ¹şÃÜ¹Ï
-'te'ji'dong'zao ÌØ¼¶¶¬Ôæ
-'tian'bai'jiu Ìğ°×¾Æ
-'tian'bai'jiu'he Ìğ°×¾ÆºĞ
-'tian'cai Ìğ²Ë
-'tian'cui'bao'gu'bang Ìğ´à°ü¹È°ô
-'tian'cui'bao'gu'mi Ìğ´à°ü¹ÈÃ×
-'tian'cui'dou Ìğ´à¶¹
-'tian'cui'wan'dou Ìğ´àÍã¶¹
-'tian'cui'wan'dou'mi Ìğ´àÍã¶¹Ã×
-'tian'ge'dong'ji'jiao Ìì¸ç¶³¼¦½Å
-'tian'he'luo'fen'bao ÌìºÍÂİ·Û°ü
-'tian'jiao Ìğ½Ç
-'tian'ma ÌìÂé
-'tian'mian'jiang ÌğÃæ½´
-'tian'mian'jiang'ping ÌğÃæ½´Æ¿
-'tian'sun ÌïËñ
-'tong'hao Üíİï
-'tong'zi'gu Í¯×Ó¹Ç
-'tong'zi'gu Í²×Ó¹Ç
-'tu'gong'ji ÍÁ¹«¼¦
-'tu'ji ÍÁ¼¦
-'tu'ji'dan ÍÁ¼¦µ°
-'tu'si'mian'bao'da'tiao ÍÁË¾Ãæ°ü´óÌõ
-'tu'ya ÍÁÑ¼
-'wa'wa'cai ÍŞÍŞ²Ë
-'wa'wa'cai'bao ÍŞÍŞ²Ë°ü
-'wa'wa'cai'dai ÍŞÍŞ²Ë´ü
-'wan'dou'fen Íã¶¹·Û
-'wan'dou'mi Íã¶¹Ã×
-'wan'dou'ya Íã¶¹Ñ¿
-'wan'ren'mi'la'jiao'you'ping ÍòÈËÃÔÀ±½·ÓÍÆ¿
-'wang'shou'yi'zi'ran'fen'bao ÍõÊØÒå×ÎÈ»·Û°ü
-'wang'wen'gua ÍøÎÆ¹Ï
-'wei'gu Î²¹Ç
-'wei'hua'zhi'bao Íş»¯Ö½°ü
-'wei'jiao'yan'ping Î¶½·ÑÎÆ¿
-'wen'shan'ji ÎÄÉ½¼¦
-'wo'wo'tou'dai ÎÑÎÑÍ·´ü
-'wu'ding'ji Îä¶¨¼¦
-'wu'hua'bian'sheng'cai ÎŞ»¨±ßÉú²Ë
-'wu'hua'guo ÎŞ»¨¹û
-'wu'hua'rou Îå»¨Èâ
-'wu'hua'rou'mo Îå»¨ÈâÄ¥
-'wu'hua'rou'pian Îå»¨ÈâÆ¬
-'wu'ji ÎÚ¼¦
-'wu'jian'xian'mian'tiao ÎŞ¼îÏÊÃæÌõ
-'wu'jiang'zha'cai'xiao'bao ÎÚ½­Õ¥²ËĞ¡°ü
-'wu'jin'dou ÎŞ½î¶¹
-'wu'jin'si'ji'dou ÎŞ½îËÄ¼¾¶¹
-'wu'qian'song'hua'dan'ge ÎŞÇ¦ËÉ»¨µ°¸ö
-'wu'wang'wo'ba ÎğÍüÎÒ°Ñ
-'wu'yan'bo'luo ÎŞÑÛ²¤ÂÜ
-'xi'chu'hai'dai'si Î÷³øº£´øË¿
-'xi'gua Î÷¹Ï
-'xi'hong'shi Î÷ºìÊÁ
-'xi'jian'jiao Ï¸¼â½·
-'xi'jie'jing Ï´½à¾«
-'xi'lan'hua Î÷À¼»¨
-'xi'mi'xian Ï¸Ã×Ïß
-'xi'ou Ï´Åº
-'xi'qin Î÷ÇÛ
-'xi'sheng'cai Î÷Éú²Ë
-'xi'sheng'cai'qiu'sheng'cai Î÷Éú²ËÇòÉú²Ë
-'xi'yan'cai Ï¸ëç²Ë
-'xi'yang'cai Î÷Ñó²Ë
-'xi'you'zhi'zhang ÎüÓÍÖ½ÕÅ
-'xi'yuan'xi Î÷ÔªÎ÷
-'xia'guo'dai ÏÄ¹û´ü
-'xia'pian'he ÏºÆ¬ºĞ
-'xia'wei'yi'mu'gua ÏÄÍşÒÄÄ¾¹Ï
-'xian'bai'he ÏÊ°ÙºÏ
-'xian'bai'he'bao ÏÊ°ÙºÏ°ü
-'xian'cha'shu'gu ÏÊ²èÊ÷¹½
-'xian'dan'ge ÏÌµ°¸ö
-'xian'dan'huang'ban ÏÌµ°»Æ°å
-'xian'dan'huang'hong'tai'yang'dai ÏÌµ°»ÆºìÌ«Ñô´ü
-'xian'dong'gu ÏÊ¶¬¹½
-'xian'gan'dou ÏÊ¸É¶¹
-'xian'he'ye'gen ÏÊºÉÒ¶¸ù
-'xian'hua'jiao ÏÊ»¨½·
-'xian'ji'you ÏÊ¼¦ÓÍ
-'xian'lu'sun ÏÊÂ«Ëñ
-'xian'mian'tiao ÏÊÃæÌõ
-'xian'mo'gu ÏÊÄ¢¹½
-'xian'ning'meng ÏÊÄûÃÊ
-'xian'ren'zhang ÏÉÈËÕÆ
-'xian'rou'shui'jiao'dai ÏÊÈâË®½È´ü
-'xian'sha'jiang ÏÊÉ³½ª
-'xian'sha'song'jian ÏÊÉ³ËÉ¼â
-'xian'shan'yao ÏÊÉ½Ò©
-'xian'wan'dou'mi ÏÊÍã¶¹Ã×
-'xian'xi'qin ÏÊÎ÷ÇÛ
-'xian'xiang'gu ÏÊÏã¹½
-'xian'ya'dan ÏÌÑ¼µ°
-'xian'ya'dan'ge ÏÌÑ¼µ°¸ö
-'xian'zhu'sun ÏÊÖñËñ
-'xiang'cai Ïã²Ë
-'xiang'chun Ïã´»
-'xiang'cong Ïã´Ğ
-'xiang'dou'fu Ïã¶¹¸¯
-'xiang'dou'fu'dai Ïã¶¹¸¯´ü
-'xiang'gan Ïã¸É
-'xiang'gu Ïã¹½
-'xiang'gua Ïã¹Ï
-'xiang'jiao Ïã½¶
-'xiang'la'jiang ÏãÀ±½´
-'xiang'la'jiang'tong'zhuang ÏãÀ±½´Í°×°
-'xiang'la'su'dai ÏãÀ±ËÖ´ü
-'xiang'li ÏãÀæ
-'xiang'liu ÏãÁø
-'xiang'mao ÏãÃ©
-'xiang'mao'cao ÏãÃ©²İ
-'xiang'mi'er'kuai'ge ÏãÃ×¶ü¿é¸ö
-'xiang'qin ÏãÇÛ
-'xiang'shan'fu'zhu ÏóÉ½¸¯Öñ
-'xiang'si'cai ÏàË¼²Ë
-'xiang'si'cai'ban ÏàË¼²Ë°å
-'xiang'sun ÏãËñ
-'xiang'xi'wai'po'cai ÏæÎ÷ÍâÆÅ²Ë
-'xiang'ye ÏãÒ¶
-'xiang'yu ÏãÓó
-'xiang'yu'bing'jian ÏãÓó±ı¼ş
-'xiang'yu'se'xiang'you'ping ÏãÓóÉ«ÏãÓÍÆ¿
-'xiao'bai'cai Ğ¡°×²Ë
-'xiao'bo'cai Ğ¡²¤²Ë
-'xiao'cong Ğ¡´Ğ
-'xiao'dao'kao'ya'zhi Ğ¡µ¶¿¾Ñ¼Ö»
-'xiao'dao'ya'sheng Ğ¡µ¶Ñ¼Éú
-'xiao'dong'jun Ğ¡¶³¾ú
-'xiao'dou'ya Ğ¡¶¹Ñ¿
-'xiao'fan'qie Ğ¡·¬ÇÑ
-'xiao'gua Ğ¡¹Ï
-'xiao'he'gui'yuan Ğ¡ºË¹ğÔ²
-'xiao'he'long'yan Ğ¡ºËÁúÑÛ
-'xiao'huang'gua Ğ¡»Æ¹Ï
-'xiao'huang'jiang Ğ¡»Æ½ª
-'xiao'ji'gu Ğ¡¼§¹½
-'xiao'jian'jiao Ğ¡¼â½·
-'xiao'jin'gua Ğ¡½ğ¹Ï
-'xiao'jin'ju Ğ¡½ğ½Û
-'xiao'jing'bai'cai Ğ¡¾©°×²Ë
-'xiao'jiu'cai Ğ¡¾Â²Ë
-'xiao'jue'cai Ğ¡Ş§²Ë
-'xiao'ku'cai Ğ¡¿à²Ë
-'xiao'lian'hua'bai Ğ¡Á«»¨°×
-'xiao'mai'zi Ğ¡Âó×Ó
-'xiao'man'tou'dai Ğ¡ÂøÍ·´ü
-'xiao'man'tou'ge Ğ¡ÂøÍ·¸ö
-'xiao'mang'guo Ğ¡Ã¢¹û
-'xiao'mei'gui'ba Ğ¡Ãµ¹å°Ñ
-'xiao'mi Ğ¡Ã×
-'xiao'mi'cai Ğ¡Ã×²Ë
-'xiao'qing'cai Ğ¡Çà²Ë
-'xiao'qing'jiao Ğ¡Çà½·
-'xiao'shao'dou'fu Ğ¡ÉÕ¶¹¸¯
-'xiao'tang'cai Ğ¡ÌÆ²Ë
-'xiao'xiang'gua Ğ¡Ïã¹Ï
-'xiao'xiang'qin'lv Ğ¡ÏãÇÛÂÌ
-'xiao'ying'tao'hong'pi'luo'bo Ğ¡Ó£ÌÒºìÆ¤ÂÜ²·
-'xiao'yu'tou Ğ¡ÓóÍ·
-'xiao'yuan'tong Ğ¡Ô²Í²
-'xiao'zhu'jiao Ğ¡Öí½Å
-'xin'de'cheng'zhi'ping ĞÂµÄ³ÈÖ­Æ¿
-'xin'de'ning'meng'zhi'ping ĞÂµÄÄûÃÊÖ­Æ¿
-'xin'dou'fu'pi ĞÂ¶¹¸¯Æ¤
-'xin'huang'xin'yang'yu ĞÂ»ÆĞÄÑóÓó
-'xin'jiang ĞÂ½ª
-'xin'ling'mei ĞÄÁéÃÀ
-'xin'qi'shi'cheng ĞÂÆæÊ¿³È
-'xin'xian'hei'mao'du ĞÂÏÊºÚÃ«¶Ç
-'xin'xian'tian'sun ĞÂÏÊÌğËñ
-'xin'xian'xia'ren ĞÂÏÊÏºÈÊ
-'xin'xian'xiang'mao'cao ĞÂÏÊÏãÃ©²İ
-'xin'xian'xiao'mi'la ĞÂÏÊĞ¡Ã×À±
-'xin'xian'zhu'sun ĞÂÏÊÖñËñ
-'xin'yang'yu ĞÂÑóÓó
-'xing'bao'gu ĞÓ±«¹½
-'xing'hu'mai'ya'fen'bao ĞÇºşÂóÑ¿·Û°ü
-'xing'ren'pian'san ĞÓÈÊÆ¬É¢
-'xiong'mao'pai'lian'ru'ping ĞÜÃ¨ÅÆÁ¶ÈéÆ¿
-'xuan'wei'huo'tui ĞûÍş»ğÍÈ
-'xue'bi'ping Ñ©±ÌÆ¿
-'xue'ha Ñ©¸ò
-'xue'lan'niu'nai'jian Ñ©À¼Å£ÄÌ¼ş
-'xue'li Ñ©Àæ
-'xue'pi'cai ÑªÆ¤²Ë
-'xue'wang ÑªÍú
-'ya'chang Ñ¼³¦
-'ya'dan Ñ¼µ°
-'ya'dan'ge Ñ¼µ°¸ö
-'ya'she Ñ¼Éà
-'ya'zhen Ñ¼Õä
-'yan'bao ÑÎ°ü
-'yan'cai ëç²Ë
-'yan'cai'bao ëç²Ë°ü
-'yan'cai'wu'se'su ëç²ËÎŞÉ«ËØ
-'yan'dan'ge ÑÎµ°¸ö
-'yan'ji ëç¼¦
-'yan'jiao'tou ëçËŠÍ·
-'yan'ju'ji'fen'dai ÑÎŸh¼¦·Û´ü
-'yan'ju'ji'fen'he ÑÎŸh¼¦·ÛºĞ
-'yan'xiao'bai'yu ëçĞ¡°×Óã
-'yan'xiao'bao ÑÎĞ¡°ü
-'yang'cong Ñó´Ğ
-'yang'du'jun Ñò¶Ç¾ú
-'yang'hua'cai Ñó»¨²Ë
-'yang'ji'dan'jian Ñó¼¦µ°¼ş
-'yang'jiang'dou'chi'he Ñô½­¶¹ôùºĞ
-'yang'jiao'cai Ñò½Ç²Ë
-'yang'lan'hua'ba ÑóÀ¼»¨°Ñ
-'yang'mei ÑîÃ·
-'yang'ru'bing ÑòÈé±ı
-'yang'si'gua ÑóË¿¹Ï
-'yang'si'gua'jian ÑóË¿¹Ï¼â
-'yang'tao ÑîÌÒ
-'yao'hua Ñü»¨
-'ye'gong'ji Ò°¹«¼¦
-'ye'huang Ò¬»Ê
-'ye'jie'lan Ò°½æÀ¼
-'ye'luo'bo Ò¶ÂÜ²·
-'ye'mu'ji Ò°Ä¸¼¦
-'ye'qing Ò¬Çà
-'ye'shan'jiao'ping Ò°É½½·Æ¿
-'ye'sheng'ji'cai Ò°ÉúÜù²Ë
-'ye'tian'cai Ò°Ìğ²Ë
-'yi'ban'de'fei'rou Ò»°ãµÄ·ÊÈâ
-'yi'da'li'fen'bao Òâ´óÀû·Û°ü
-'yi'kui'yu'gui'fen'ping Ò»¿ûÓñ¹ğ·ÛÆ¿
-'yi'liang'kao'ya ÒËÁ¼¿¾Ñ¼
-'yi'mian'bao ÒÁÃæ°ü
-'yin'zhen'gu ÒøÕë¹½
-'you'dou'fu ÓÍ¶¹¸¯
-'you'tao ÓÍÌÒ
-'yu'du Óã¶Ç
-'yu'lan'pian ÓñÀ¼Æ¬
-'yu'mi ÓñÃ×
-'yu'mi'bang ÓñÃ×°ô
-'yu'mi'bang'shui'guo ÓñÃ×°ôË®¹û
-'yu'mi'li ÓñÃ×Á£
-'yu'mi'sheng'fen ÓñÃ×Éú·Û
-'yu'mi'sun ÓñÃ×Ëñ
-'yu'tou'hua ÓóÍ·»¨
-'yu'tou'zai ÓóÍ·×Ğ
-'yu'xiang'fen'ping ÓñÏã·ÛÆ¿
-'yuan'dou Ô²¶¹
-'yuan'gan'ku'cai Ô²¸Ë¿à²Ë
-'yuan'gong'hai'dai'si Ô±¹¤º£´øË¿
-'yuan'qian'fen'bao Ü¾Üç·Û°ü
-'yuan'qian'zi Ü¾Üç×Ñ
-'zai'gu'zhi ×Ğ¹ÃÖ»
-'zai'jiang ×Ğ½ª
-'zai'pai ×ĞÅÅ
-'zai'pai'gu ×ĞÅÅ¹Ç
-'zang'hong'hua ²Øºì»¨
-'zang'hong'hua'cai ²Øºì»¨²Ë
-'zao'la'zi ÔãÀ±×Ó
-'zha'cai Õ¥²Ë
-'zha'cai'dai Õ¥²Ë´ü
-'zha'cai'si'dai Õ¥²ËË¿´ü
-'zhao'tong'jiang ÕÑÍ¨½´
-'zhe'er'gen ÕÛ¶ú¸ù
-'zhe'er'gen'ye ÕÛ¶ú¸ùÒ¶
-'zhe'ye ÕÛÒ¶
-'zhen'zhu'cai ÕäÖé²Ë
-'zhen'zhu'ji ÕäÖé¼¦
-'zheng'rou'fen'dai ÕôÈâ·Û´ü
-'zheng'yi'chun'zhu'you'tong ÕıÒå´¿ÖíÓÍÍ°
-'zhi'cong Ö±´Ğ
-'zhi'ma'cai Ö¥Âé²Ë
-'zhi'ma'hua Ö¥Âé»¨
-'zhi'ma'you Ö¥ÂéÓÍ
-'zhi'ma'you'ping Ö¥ÂéÓÍÆ¿
-'zhi'ping Ö­Æ¿
-'zhi'zhu Ö§Öñ
-'zhou'pi'jiao ÖåÆ¤½·
-'zhou'qing'jiao ÖåÇà½·
-'zhou'zi Öâ×Ó
-'zhu'bai'yun'dou Öó°×ÔÆ¶¹
-'zhu'ban'you Öí°åÓÍ
-'zhu'dao'dou Öóµ¶¶¹
-'zhu'du Öí¶Ç
-'zhu'er Öí¶ú
-'zhu'fei'ge Öí·Î¸ö
-'zhu'fen'chang Öí·Û³¦
-'zhu'gan Öí¸Î
-'zhu'hong'dou Öóºì¶¹
-'zhu'nao'hua ÖíÄÔ»¨
-'zhu'pi ÖíÆ¤
-'zhu'she ÖíÉà
-'zhu'shi'fu'guo'dong'dai ÖìÊ¦¸µ¹û¶³´ü
-'zhu'shou ÖíÊÖ
-'zhu'si'ji ÖñË¿¼¦
-'zhu'sun'si ÖñËñË¿
-'zhu'sun'ting ÖñËñÌı
-'zhu'ti ÖíÌã
-'zhu'wei ÖíÎ²
-'zhu'xiao'chang ÖíĞ¡³¦
-'zhu'xin ÖíĞÄ
-'zhu'xue ÖíÑª
-'zi'cai'bao ×Ï²Ë°ü
-'zi'cai'ti ×Ï²ËÌá
-'zi'cao ×Ï²İ
-'zi'fa'qiao'fen'jian ×Ï·¢Üñ·Û¼ş
-'zi'fa'yu'mi'fen'jian ×Ï·¢ÓñÃ×·Û¼ş
-'zi'ji ×Ğ¼¦
-'zi'jie'lan ×Ï½æÀ¼
-'zi'lian'hua'bai ×ÏÁ«»¨°×
-'zi'luo'lan'ba ×ÏÂŞÀ¼°Ñ
-'zi'nuo'mi ×ÏÅ´Ã×
-'zi'pi'hong'shu ×ÏÆ¤ºìÊí
-'zi'qie'zi ×ÏÇÑ×Ó
-'zi'su ×ÏËÕ
-'zi'tai'yang'hua'ba ×ÏÌ«Ñô»¨°Ñ
-'zong'he'lei ×ÛºÏÀà
+shucai.dict	dictmusic	1
+é¹Œé¹‘è›‹	an chun dan	1
+å®‰çªé…µæ¯ç²‰åŒ…	an qi jiao mu fen bao	1
+æ¾³æŸ‘	ao gan	1
+å…«å®é¥­ä¸ª	ba bao fan ge	1
+å…«è§’	ba jiao	1
+èŠ­è•‰èŠ±	ba jiao hua	1
+èŠ­è•‰å¶	ba jiao ye	1
+èŠ­è•‰å¶è¢‹	ba jiao ye dai	1
+å·´ä¹¾	ba qian	1
+éœ¸ç‹èŠ±	ba wang hua	1
+ç™½èœè‹”	bai cai tai	1
+ç™½èœå¿ƒ	bai cai xin	1
+ç™½è±†è…	bai dou fu	1
+ç™½è±†è…å¹²	bai dou fu gan	1
+ç™½è±†è”»	bai dou kou	1
+ç™½å‡¤é¸¡	bai feng ji	1
+ç™½å‡¤èŒ	bai feng jun	1
+ç™½æœ	bai guo	1
+ç™½æœè‚‰åŒ…	bai guo rou bao	1
+ç™½æœå‘³è†æ¡¶	bai guo wei gao tong	1
+ç™¾åˆ	bai he	1
+ç™¾åˆèŠ±	bai he hua	1
+ç™½èŠ±	bai hua	1
+ç™½èŠ±èœ	bai hua cai	1
+ç™½èŠ±è±†	bai hua dou	1
+ç™½èŠ±ç”Ÿç±³	bai hua sheng mi	1
+ç™½é‡‘é’ˆè‡	bai jin zhen gu	1
+ç™½è²è—•	bai lian ou	1
+ç™½è²è“‰	bai lian rong	1
+ç™½é²¢é±¼	bai lian yu	1
+ç™½å‡‰ç²‰	bai liang fen	1
+ç™½çµè‡	bai ling gu	1
+ç™½èåœ	bai luo bo	1
+ç™½è˜‘è‡	bai mo gu	1
+ç™½çš®é’è’œ	bai pi qing suan	1
+ç™½çš®é’ç¬‹	bai pi qing sun	1
+ç™½èŠ¹	bai qin	1
+ç™½å±±è¯	bai shan yao	1
+ç™½è–¯	bai shu	1
+ç™½ç³–	bai tang	1
+ç™½é¦™ç“œ	bai xiang gua	1
+ç™½å¿ƒæ´‹èŠ‹	bai xin yang yu	1
+ç™½æ´‹è‘±	bai yang cong	1
+ç™½ç‰å…°é¥ºå­é¢ç²‰è¢‹	bai yu lan jiao zi mian fen dai	1
+ç™½èŠ·	bai zhi	1
+ç™½èŠéº»	bai zhi ma	1
+æ¿è±†è…	ban dou fu	1
+æ¿è“æ ¹	ban lan gen	1
+æ£’æ£’èœ	bang bang cai	1
+æ£’èœ	bang cai	1
+åŒ…èœ	bao cai	1
+åŒ…è°·ç±³	bao gu mi	1
+åŒ…æµ†è±†è…	bao jiang dou fu	1
+åŒ…æµ†è±†è…å—	bao jiang dou fu kuai	1
+åŒ…æµ†è±†è…æ¡	bao jiang dou fu tiao	1
+åŒ…æµ†è±†è…å°å—	bao jiang dou fu xiao kuai	1
+å‰¥çš®æ¿æ —	bao pi ban li	1
+ä¿å«å°”ç‰›è‚‰æ±ç“¶	bao wei er niu rou zhi ping	1
+ä¿é²œè†œå›½äº§	bao xian mo guo chan	1
+ä¿é²œè†œè¿›å£	bao xian mo jin kou	1
+é²é±¼æ±ç“¶	bao yu zhi ping	1
+æœ¬åœ°èœå¿ƒ	ben di cai xin	1
+æœ¬åœ°é»„ç“œ	ben di huang gua	1
+æœ¬åœ°ç«è…¿	ben di huo tui	1
+æœ¬åœ°é¸¡ç¿…	ben di ji chi	1
+æœ¬åœ°èŠ¥å…°	ben di jie lan	1
+æœ¬åœ°è‹¦ç“œ	ben di ku gua	1
+æœ¬åœ°ç”Ÿèœ	ben di sheng cai	1
+æœ¬åœ°é¦™è‚ 	ben di xiang chang	1
+å®¾å·è„æ©™	bin chuan qi cheng	1
+å†°å†»é²œèŠ±æ¤’	bing dong xian hua jiao	1
+å†°å†»é²œé±¿é±¼	bing dong xian you yu	1
+å†°è±†èŠ½	bing dou ya	1
+å†°èŠ±é…¸æ¢…é…±ç“¶	bing hua suan mei jiang ping	1
+å†°ç³–	bing tang	1
+å†°ç³–æ©™	bing tang cheng	1
+å†°ç³–æ•£	bing tang san	1
+è èœ	bo cai	1
+è–„è·	bo he	1
+è è	bo luo	1
+ä¸è€æ³‰é™ˆé†‹ç“¶	bu lao quan chen cu ping	1
+å½©èŠ±æŠŠ	cai hua ba	1
+å½©æ¤’	cai jiao	1
+èœè±Œè±†	cai wan dou	1
+èœå¿ƒ	cai xin	1
+èœå­æ²¹	cai zi you	1
+èš•è±†	can dou	1
+èš•è±†ç±³	can dou mi	1
+è‰æœ	cao guo	1
+è‰è“	cao mei	1
+è‰èŠ½	cao ya	1
+è‰èŠ½å°–	cao ya jian	1
+è‰é±¼	cao yu	1
+èŒ¶èŠ±é¸¡åª	cha hua ji zhi	1
+èŒ¶æ ‘è‡	cha shu gu	1
+é•¿è±†è§’	chang dou jiao	1
+é•¿é’å°–æ¤’	chang qing jian jiao	1
+é•¿é’æ¤’	chang qing jiao	1
+é•¿æ°´è…Œèœ	chang shui yan cai	1
+é•¿ä¸ç“œ	chang si gua	1
+é•¿é…¸èœ	chang suan cai	1
+è‚ å¤´	chang tou	1
+é•¿è…Œèœ	chang yan cai	1
+è‚ å­	chang zi	1
+è½¦è½®é»„å¥¶æ²¹æ¡¶	che lun huang nai you tong	1
+é™ˆæ‘æ§æ°´æ¡¶	chen cun jian shui tong	1
+é™ˆçš®	chen pi	1
+é™ˆè’œè‹”	chen suan tai	1
+æ©™çº¢è‰²ç´ ç“¶	cheng hong se su ping	1
+æ©™å­	cheng zi	1
+èµ¤è‚‰	chi rou	1
+å†²èœ	chong cai	1
+è™«è‰èŠ±	chong cao hua	1
+è‡­èœ	chou cai	1
+è‡­å‚	chou can	1
+è‡­è±†è…	chou dou fu	1
+è‡­è±†è…å—	chou dou fu kuai	1
+è‡­è±†è…å°å—	chou dou fu xiao kuai	1
+å·å¼“	chuan gong	1
+ç©¿ç©¹èœ	chuan qiong cai	1
+æ˜¥å·çš®è¢‹	chun juan pi dai	1
+æ…ˆè‡	ci gu	1
+èŒ¨è‡	ci gu	1
+åˆºé’ç“œ	ci qing gua	1
+åˆºäº”åŠ 	ci wu jia	1
+ç²—èœå¿ƒ	cu cai xin	1
+ç²—è¾£å­é¢	cu la zi mian	1
+ç²—ç±³çº¿	cu mi xian	1
+è„†è±†è…	cui dou fu	1
+è„†éª¨	cui gu	1
+è„†æŸ¿	cui shi	1
+å¤§ç™½èœ	da bai cai	1
+å¤§ç™½èŠ±	da bai hua	1
+å¤§è‘±	da cong	1
+å¤§è±†è‰²æ‹‰æ²¹	da dou se la you	1
+å¤§å¹²æœ¨è€³	da gan mu er	1
+å¤§é¾Ÿç”²ä¸‡é…±æ²¹ç“¶	da gui jia wan jiang you ping	1
+å¤§æ ¸æ¡‚åœ†	da he gui yuan	1
+å¤§çº¢æ¤’	da hong jiao	1
+å¤§çº¢å°ç±³è¾£	da hong xiao mi la	1
+å¤§èŠ±é²¢é±¼å¤´	da hua lian yu tou	1
+å¤§é»„å§œ	da huang jiang	1
+å¤§é¸¡è…¿èŠ¥å…°	da ji tui jie lan	1
+å¤§éŸ­èœ	da jiu cai	1
+å¤§è‹¦èœ	da ku cai	1
+å¤§å—çº¢ç³–	da kuai hong tang	1
+å¤§è²èŠ±ç™½	da lian hua bai	1
+å¤§ç¾æé›€å·¢ç“¶	da mei ji que chao ping	1
+å¤§ç±³	da mi	1
+å¤§èŒ„å­	da qie zi	1
+å¤§é’æ¤’	da qing jiao	1
+å¤§å±±è¯	da shan yao	1
+å¤§è’œç±³	da suan mi	1
+å¤§è’œå¤´	da suan tou	1
+å¤§é¦™èœ	da xiang cai	1
+å¤§è…Œèœ	da yan cai	1
+å¤§å…ƒ	da yuan	1
+å¤§å…ƒè¥¿	da yuan xi	1
+å¤§å…ƒé¡»	da yuan xu	1
+å¸¦åˆºå°é»„ç“œ	dai ci xiao huang gua	1
+å¸¦å£³èš•è±†	dai ke can dou	1
+å¸¦çš®ç™½è’œ	dai pi bai suan	1
+å¸¦çš®åŒ…è°·æ£’	dai pi bao gu bang	1
+å¸¦çš®è¸è 	dai pi bi qi	1
+å¸¦çš®èš•è±†	dai pi can dou	1
+å¸¦çš®ç‹¬è’œ	dai pi du suan	1
+å¸¦çš®åè…¿è‚‰	dai pi hou tui rou	1
+å¸¦çš®èŠ±ç”Ÿ	dai pi hua sheng	1
+å¸¦çš®èŒ­ç“œ	dai pi jiao gua	1
+å¸¦çš®è€å§œ	dai pi lao jiang	1
+å¸¦çš®æ¯›è±†	dai pi mao dou	1
+å¸¦çš®å‰è…¿è‚‰	dai pi qian tui rou	1
+å¸¦çš®é’ç¬‹	dai pi qing sun	1
+å¸¦çš®äº”èŠ±è‚‰	dai pi wu hua rou	1
+å¸¦æ±é›•æ¢…	dai zhi diao mei	1
+å¸¦ææ¯›è±†	dai zhi mao dou	1
+è¢‹è£…é²œç™¾åˆ	dai zhuang xian bai he	1
+è›‹ç³•æŒ¤èŠ±è¢‹åŒ…	dan gao ji hua dai bao	1
+è›‹é¸¡	dan ji	1
+å½“å½’	dang gui	1
+ç €å±±æ¢¨	dang shan li	1
+åœ°é—¨è èç½å¤´ç“¶	di men bo luo guan tou ping	1
+åœ°é—¨ç‰ç±³ç²’ç“¶	di men yu mi li ping	1
+æ·€ç²‰è¢‹	dian fen dai	1
+ä¸é¦™	ding xiang	1
+å†¬èœ	dong cai	1
+å†¬è™«å¤è‰	dong chong xia cao	1
+ä¸œå¤ç™½é†‹ç“¶	dong gu bai cu ping	1
+å†¬ç“œ	dong gua	1
+å†¬ç“œç³–	dong gua tang	1
+å†»é¸¡ç¿…å°–	dong ji chi jian	1
+å†»æ²™æ¾å°–	dong sha song jian	1
+å†¬ç¬‹	dong sun	1
+å†¬æ£	dong zao	1
+è±†ç“£é…±	dou ban jiang	1
+è±†ç“£é…±æ¡¶	dou ban jiang tong	1
+è±†è±‰é²®é±¼å¬	dou chi ling yu ting	1
+è±†è…	dou fu	1
+è±†è…èœ	dou fu cai	1
+è±†è…å¹²	dou fu gan	1
+è±†è…çš®	dou fu pi	1
+è±†è…çš®é²œ	dou fu pi xian	1
+è±†è…ä¸	dou fu si	1
+è±†å°–	dou jian	1
+è±†æµ†è¢‹	dou jiang dai	1
+è±†èŠ½	dou ya	1
+è±†èŠ½èœé»„ç»¿	dou ya cai huang lv	1
+è±†èŠ½å»å¤´å°¾	dou ya qu tou wei	1
+ç‹¬è’œç±³	du suan mi	1
+å¤šå‘³é¦™è¾£é…±æ¡¶è£…	duo wei xiang la jiang tong zhuang	1
+é¹…è‚ 	e chang	1
+é¹…ç¿…	e chi	1
+é¹…æŒ	e zhang	1
+å„¿èœ	er cai	1
+é¥µä¸	er si	1
+æ³•é¦™	fa xiang	1
+ç•ªèŒ„	fan qie	1
+ç•ªè¥¿	fan xi	1
+ç•ªæ	fan xing	1
+è‚ºèœ	fei cai	1
+è‚¥è‚ 	fei chang	1
+è‚¥è‚‰	fei rou	1
+ç²‰è‘›	fen ge	1
+ç²‰ä¸	fen si	1
+é£è½¦ç”Ÿç²‰è¢‹	feng che sheng fen dai	1
+èœ‚èœœç“¶	feng mi ping	1
+ä¸°æ°´æ¢¨	feng shui li	1
+é£å‘³è±†è±‰	feng wei dou chi	1
+èœ‚çªè‚š	feng wo du	1
+è…ä¹³ç“¶	fu ru ping	1
+æ–§å¤´é£Ÿç²‰è¢‹	fu tou shi fen dai	1
+è…ç«¹	fu zhu	1
+ç›–èœ	gai cai	1
+å¹²å·´	gan ba	1
+å¹²å·´èŒæ‹ŒéŸ­èœèŠ±	gan ba jun ban jiu cai hua	1
+ç”˜è‰ç²‰	gan cao fen	1
+å¹²èŒ¶æ ‘è‡	gan cha shu gu	1
+å¹²è‘±å¤´	gan cong tou	1
+å¹²å¤§è‘±	gan da cong	1
+å¹²è±†	gan dou	1
+å¹²è±†è…	gan dou fu	1
+å¹²è±†è…çš®	gan dou fu pi	1
+å¹²æµ·å¸¦	gan hai dai	1
+å¹²çŒ´å¤´è‡	gan hou tou gu	1
+å¹²é»„è±†	gan huang dou	1
+å¹²é»„èŠ±èœ	gan huang hua cai	1
+å¹²é¸¡æ²¹èŒ	gan ji you jun	1
+å¹²è¾£æ¤’	gan la jiao	1
+å¹²è¾£å­æ®µ	gan la zi duan	1
+å¹²é¢æ¡	gan mian tiao	1
+å¹²æœ¨è€³	gan mu er	1
+å¹²ç‰›è‚èŒ	gan niu gan jun	1
+å¹²ç§‹ç™½è¾£æ¤’	gan qiu bai la jiao	1
+å¹²æ²™å§œ	gan sha jiang	1
+å¹²é¦™è‡	gan xiang gu	1
+å¹²é“¶è€³	gan yin er	1
+é«˜è¾¾æ¤°é…±å¬	gao da ye jiang ting	1
+è›¤èš§	ge jie	1
+è´¡æ©˜	gong ju	1
+æ¸æå¶	gou qi ye	1
+æ¸æå­	gou qi zi	1
+å¤è¶Šé¾™å±±èŠ±é›•é…’ç“¶	gu yue long shan hua diao jiu ping	1
+å¹¿èœå¿ƒ	guang cai xin	1
+å¹¿ä¸œé»‘å®—é¹…	guang dong hei zong e	1
+å¹¿ä¸œèŠ‚ç“œ	guang dong jie gua	1
+å¹¿ä¸œè…Šè‚‰	guang dong la rou	1
+å¹¿ä¸œå‡‰ç“œ	guang dong liang gua	1
+å¹¿ä¸œç±³é…’ç“¶	guang dong mi jiu ping	1
+å¹¿ä¸œå—å§œ	guang dong nan jiang	1
+å¹¿ä¸œä¸ç“œ	guang dong si gua	1
+å¹¿ä¸œå°å”èœ	guang dong xiao tang cai	1
+å¹¿ä¸œç›ç„—é¦™æ–™åŒ…	guang dong yan ju xiang liao bao	1
+å¹¿åˆè…ä¹³ç“¶	guang he fu ru ping	1
+å¹¿èŠ¥å…°	guang jie lan	1
+å¹¿å‘³é¦™è‚ 	guang wei xiang chang	1
+å¹¿è¥¿ä¸‰é»„é¸¡	guang xi san huang ji	1
+å¹¿ç¥¥æ³°è€æŠ½ç“¶	guang xiang tai lao chou ping	1
+å…‰é¸­	guang ya	1
+æ¡‚æ—è¾£æ¤’é…±ç“¶	gui lin la jiao jiang ping	1
+æ¡‚åœ†è‚‰	gui yuan rou	1
+å›½äº§è½¦å˜å­	guo chan che li zi	1
+å›½äº§çº¢æ	guo chan hong ti	1
+å›½äº§èŠ’æœ	guo chan mang guo	1
+å›½äº§çŒ•çŒ´æ¡ƒ	guo chan mi hou tao	1
+å›½äº§é’æ	guo chan qing ti	1
+å›½æ³°ç‰Œé¸¡ç²¾è¢‹	guo tai pai ji jing dai	1
+å“ˆå¯†ç“œ	ha mi gua	1
+æµ·ç™½èœ	hai bai cai	1
+æµ·èœ	hai cai	1
+æµ·å¸¦å—	hai dai kuai	1
+æµ·å¸¦ä¸	hai dai si	1
+æµ·é©¬	hai ma	1
+æµ·å‚çš®	hai shen pi	1
+æµ·å¤©è‰è‡è€æŠ½å‡	hai tian cao gu lao chou sheng	1
+æµ·å¤©é‡‘æ ‡ç”ŸæŠ½ç“¶	hai tian jin biao sheng chou ping	1
+æµ·å¤©é‡‘æ ‡ç”ŸæŠ½å‡	hai tian jin biao sheng chou sheng	1
+æµ·èœ‡çš®	hai zhe pi	1
+æµ·èœ‡ä¸	hai zhe si	1
+éŸ©å›½å¹¼ç ‚ç³–	han guo you sha tang	1
+å¥½è‚¥è‚‰	hao fei rou	1
+è±ªå‰é¸¡ç²¾åŒ…	hao ji ji jing bao	1
+å¥½ç£¨è‚‰	hao mo rou	1
+æ²³ç²‰åŒ…	he fen bao	1
+è·å…°è±†	he lan dou	1
+æ ¸æ¡ƒèŠ±	he tao hua	1
+æ ¸æ¡ƒä»	he tao ren	1
+æ ¸æ¡ƒä»åŒ…	he tao ren bao	1
+é»‘å¤§å¤´	hei da tou	1
+é»‘è±†è…å¹²	hei dou fu gan	1
+é»’æ¤’ç¢ç”„æƒ³è®°ç“¶	hei jiao sui zhen xiang ji ping	1
+é»‘é²¢é±¼	hei lian yu	1
+é»‘ç¾äººè¥¿ç“œ	hei mei ren xi gua	1
+é»‘æœ¨è€³æœ€å¥½	hei mu er zui hao	1
+çº¢å½©æ¤’	hong cai jiao	1
+çº¢èœè‹”	hong cai tai	1
+çº¢è½¦å˜å­ç“¶	hong che li zi ping	1
+çº¢è‘±å¤´	hong cong tou	1
+çº¢è±†	hong dou	1
+çº¢è±†ç±³	hong dou mi	1
+çº¢è±†æ²™	hong dou sha	1
+çº¢é¥­è±†	hong fan dou	1
+çº¢æ—±èœ	hong han cai	1
+çº¢èŠ±ç”Ÿç±³	hong hua sheng mi	1
+çº¢å°–æ¤’	hong jian jiao	1
+çº¢è²è“‰	hong lian rong	1
+çº¢ç«ç‘°	hong mei gui	1
+çº¢çš®èåœ	hong pi luo bo	1
+çº¢çš®é’è’œ	hong pi qing suan	1
+çº¢æ›²ç±³	hong qu mi	1
+çº¢å±±è¯	hong shan yao	1
+çº¢å‚é¡»	hong shen xu	1
+çº¢è–¯	hong shu	1
+çº¢ç³–	hong tang	1
+çº¢ç³–æ•£	hong tang san	1
+çº¢æ	hong ti	1
+çº¢ç»†å°–æ¤’	hong xi jian jiao	1
+çº¢å°ç•ªèŒ„	hong xiao fan qie	1
+çº¢å°ç±³èœ	hong xiao mi cai	1
+çº¢å°ç±³è¾£	hong xiao mi la	1
+çº¢å°è”·è–‡æŠŠ	hong xiao qiang wei ba	1
+çº¢æ´‹è‘±	hong yang cong	1
+çº¢æ£	hong zao	1
+çº¢çš±çš®æ¤’	hong zhou pi jiao	1
+çº¢çš±é’æ¤’	hong zhou qing jiao	1
+åè…¿è‚‰	hou tui rou	1
+åè…¿è‚‰ç£¨	hou tui rou mo	1
+åè…¿è‚‰ç‰‡	hou tui rou pian	1
+åè…¿ç˜¦è‚‰	hou tui shou rou	1
+åè‚˜	hou zhou	1
+èƒ¡æ¤’ç²‰	hu jiao fen	1
+èƒ¡æ¤’ç²‰åŒ…	hu jiao fen bao	1
+èƒ¡è¾£æ¤’ç²‰	hu la jiao fen	1
+èƒ¡èŠ¦ç“œ	hu lu gua	1
+è‘«èŠ¦ç“œ	hu lu gua	1
+èƒ¡èåœ	hu luo bo	1
+è™æŒèŒ	hu zhang jun	1
+èŠ±è¾¹ç”Ÿèœ	hua bian sheng cai	1
+èŠ±è¾¹ç”Ÿèœå”ç”Ÿèœ	hua bian sheng cai tang sheng cai	1
+èŠ±å«çº¸åŒ…	hua dian zhi bao	1
+èŠ±æ¤’	hua jiao	1
+èŠ±æ¤’å¶	hua jiao ye	1
+èŠ±é²¢é±¼å¤´	hua lian yu tou	1
+èŠ±çš®è¥¿ç“œ	hua pi xi gua	1
+èŠ±æ——å‚	hua qi shen	1
+èŠ±ç”Ÿ	hua sheng	1
+åæ›¦ç‰Œç™½çš®é¸¡è›‹	hua xi pai bai pi ji dan	1
+åæ›¦ç‰Œé»„çš®é¸¡è›‹	hua xi pai huang pi ji dan	1
+é»„å½©æ¤’	huang cai jiao	1
+çš‡å¸è´¡æ©˜	huang di gong ju	1
+çš‡å¸è•‰	huang di jiao	1
+é»„è±†	huang dou	1
+é»„è±†è…	huang dou fu	1
+é»„è±†è…å¹²	huang dou fu gan	1
+é»„è±†è°ƒå’Œæ²¹	huang dou tiao he you	1
+é»„è±†èŠ½	huang dou ya	1
+é»„ç“œ	huang gua	1
+é»„å–‰	huang hou	1
+é»„å§œ	huang jiang	1
+é»„é‡‘å¤§é¥¼	huang jin da bing	1
+é»„é‡‘æ¢¨	huang jin li	1
+é»„æŸ æª¬	huang ning meng	1
+é»„æå­	huang qi zi	1
+é»„ç§‹è‘µ	huang qiu kui	1
+é»„é¦™ç“œ	huang xiang gua	1
+é»„å°ç•ªèŒ„	huang xiao fan qie	1
+é»„å¿ƒæ´‹èŠ‹	huang xin yang yu	1
+ç°è›‹	hui dan	1
+ç°è›‹ä¸ª	hui dan ge	1
+ç°æŒ‘èœ	hui tiao cai	1
+èŒ´é¦™	hui xiang	1
+èŒ´é¦™å°–	hui xiang jian	1
+ç«é”…é¢ä»¶	huo guo mian jian	1
+ç«é¸¡	huo ji	1
+ç«ç¢±	huo jian	1
+ç«é¾™æœ	huo long guo	1
+éœé¦™	huo xiang	1
+è èœ	ji cai	1
+é¸¡è›‹	ji dan	1
+é¸¡éª¨æ¶ä»¶	ji gu jia jian	1
+é¸¡è„š	ji jiao	1
+é¸¡è„šä»”	ji jiao zai	1
+é¸¡ç²¾è¢‹	ji jing dai	1
+é¸¡è„¯è‚‰	ji pu rou	1
+è„Šè‚‰	ji rou	1
+é¸¡è‚‰ç²¾è†ç“¶	ji rou jing gao ping	1
+é¸¡è…¿	ji tui	1
+é¸¡è…¿è‡	ji tui gu	1
+é¸¡è…¿ä»¶	ji tui jian	1
+é¸¡å°è…¿	ji xiao tui	1
+é¸¡è¡€	ji xue	1
+é¸¡æ²¹	ji you	1
+é¸¡æ²¹èŒ	ji you jun	1
+é²«é±¼	ji yu	1
+é¸¡èƒ—	ji zhen	1
+èšè±†	jia dou	1
+å®¶ä¹è¾£é²œéœ²ç“¶	jia le la xian lu ping	1
+å®¶ä¹æ —ç²‰åŒ…	jia le li fen bao	1
+å®¶ä¹æµ“ç¼©é¸¡æ±ç“¶	jia le nong suo ji zhi ping	1
+å®¶ä¹ç‰Œé²œéœ²ç“¶	jia le pai xian lu ping	1
+å®¶ä¹æ¾è‚‰ç²‰åŒ…	jia le song rou fen bao	1
+å®¶ä¹è’œé¦™ç²‰åŒ…	jia le suan xiang fen bao	1
+å®¶å…”	jia tu	1
+å¤¹å¿ƒé¥¼å¹²	jia xin bing gan	1
+ç”²é±¼	jia yu	1
+ç”²é±¼è£™è¾¹	jia yu qun bian	1
+å»ºæ·‹å¼¥æ¸¡è…Œèœè¢‹	jian lin mi du yan cai dai	1
+å°–é’æ¤’	jian qing jiao	1
+å§œé¥¼ç“œ	jiang bing gua	1
+è±‡è±†	jiang dou	1
+å§œè±†è±‰	jiang dou chi	1
+å§œä¸ç¢æ³¡æ¤’	jiang si sui pao jiao	1
+èŒ­ç“œ	jiao gua	1
+èŠ¥é¥¼	jie bing	1
+æ°å¨è±†è±‰è€å¹²å¦ˆ	jie chu dou chi lao gan ma	1
+åŠ²éœ¸æ©™æ±ç“¶	jin ba cheng zhi ping	1
+åŠ²éœ¸é¸¡è‚‰æ±ç“¶	jin ba ji rou zhi ping	1
+åŠ²éœ¸æŸ æª¬æ±ç“¶	jin ba ning meng zhi ping	1
+åŠ²éœ¸ç‰›è‚‰æ±ç“¶	jin ba niu rou zhi ping	1
+é‡‘è€³	jin er	1
+é‡‘åˆšè±†	jin gang dou	1
+é‡‘ç“œ	jin gua	1
+é‡‘èŠ±èœ	jin hua cai	1
+é‡‘åç«è…¿	jin hua huo tui	1
+é‡‘èŠ±æ¢¨	jin hua li	1
+é‡‘å¥–ç™½å…°åœ°ç“¶	jin jiang bai lan di ping	1
+é‡‘èŠ¥	jin jie	1
+é‡‘æ¡”	jin ju	1
+é‡‘æ©˜	jin ju	1
+è¿›å£ç™½å‘³ç›ç“¶	jin kou bai wei yan ping	1
+è¿›å£è½¦å˜å­	jin kou che li zi	1
+è¿›å£é¹…æŒä»¶	jin kou e zhang jian	1
+è¿›å£çº¢è›‡	jin kou hong she	1
+è¿›å£çº¢æ	jin kou hong ti	1
+è¿›å£é¸¡ç¿…	jin kou ji chi	1
+è¿›å£çŒ•çŒ´æ¡ƒ	jin kou mi hou tao	1
+è¿›å£æœ¨ç“œ	jin kou mu gua	1
+è¿›å£æŸ æª¬	jin kou ning meng	1
+è¿›å£é’è›‡	jin kou qing she	1
+è¿›å£é’æ	jin kou qing ti	1
+è¿›å£é¦™è•‰	jin kou xiang jiao	1
+é‡‘é¾™èŠ±ç”Ÿæ²¹æ¡¶	jin long hua sheng you tong	1
+é‡‘é¾™é±¼è°ƒå’Œæ²¹	jin long yu tiao he you	1
+é‡‘é’±è‚š	jin qian du	1
+é‡‘é›€èŠ±	jin que hua	1
+é‡‘è±¡é¢ç²‰è¢‹	jin xiang mian fen dai	1
+é”¦çè±†ç“£é…±æ¡¶	jin zhen dou ban jiang tong	1
+é‡‘é’ˆè‡	jin zhen gu	1
+é‡‘é’ˆè‡åŒ…	jin zhen gu bao	1
+é”¦çè€æŠ½ç“¶	jin zhen lao chou ping	1
+é”¦çè€æŠ½æ¡¶	jin zhen lao chou tong	1
+é‡‘é’»ç”œå¥¶æ²¹ç“¶	jin zuan tian nai you ping	1
+äº¬ç™½èœ	jing bai cai	1
+å‡€æ¿æ²¹	jing ban you	1
+å‡€è‚ å¤´	jing chang tou	1
+å‡€è‚ å¤´å»æ²¹	jing chang tou qu you	1
+å‡€å¤§è‘±	jing da cong	1
+å‡€è±†å°–	jing dou jian	1
+å‡€åè…¿è‚‰	jing hou tui rou	1
+è†èŠ¥	jing jie	1
+å‡€ç˜¦è‚‰	jing shou rou	1
+å‡€ç¬‹å¤´	jing sun tou	1
+å‡€è¥¿å…°èŠ±	jing xi lan hua	1
+éŸ­èœ	jiu cai	1
+éŸ­èœæ ¹	jiu cai gen	1
+éŸ­èœèŠ±å¹²å·´èŒ	jiu cai hua gan ba jun	1
+éŸ­èœè‹”	jiu cai tai	1
+éŸ­é»„	jiu huang	1
+ä¹æ±ŸåŒè’¸é…’ç“¶	jiu jiang shuang zheng jiu ping	1
+å·¨ä¸°è‘¡è„	ju feng pu tao	1
+èŠèŠ±èœ	ju hua cai	1
+å·ç²‰	juan fen	1
+å·æ¯›éŸ­èœ	juan mao jiu cai	1
+å·æ¯›éŸ­é»„	juan mao jiu huang	1
+å¥æ ¹ç²‰è¢‹	jue gen fen dai	1
+å¡å¤«å¥‡å¦™é…±ç“¶	ka fu qi miao jiang ping	1
+å’–ä¿æœ	ka li guo	1
+åº·ä¹ƒé¦¨æŠŠ	kang nai xin ba	1
+åº·ä¹ƒé¦¨æœµ	kang nai xin duo	1
+çƒ¤ç´«èœè¢‹	kao zi cai dai	1
+ç©ºå¿ƒèœ	kong xin cai	1
+ç©ºå¿ƒèœé€šèœ	kong xin cai tong cai	1
+å£ç½©ç›’	kou zhao he	1
+è‹¦åˆºèŠ±	ku ci hua	1
+è‹¦ç“œ	ku gua	1
+è‹¦å‡‰èœ	ku liang cai	1
+è‹¦å­æœ	ku zi guo	1
+å¥å¶æŠŠ	kui ye ba	1
+è¾£æ¤’é¢	la jiao mian	1
+æ‹‰çš®	la pi	1
+è¾£å­å°–	la zi jian	1
+å…°èŠ±	lan hua	1
+å…°èŠ±æŠŠ	lan hua ba	1
+å…°èŠ±åŒ…	lan hua bao	1
+è€é™ˆé†‹ç“¶	lao chen cu ping	1
+è€æŠ½ç“¶	lao chou ping	1
+è€è±†è…	lao dou fu	1
+è€å¹²å¦ˆæ°´è±†è±‰	lao gan ma shui dou chi	1
+è€å¹²å¦ˆæ°´è±†è±‰ç“¶	lao gan ma shui dou chi ping	1
+è€å¹²å¦ˆæ²¹è±†è±‰ç“¶	lao gan ma you dou chi ping	1
+è€å§œ	lao jiang	1
+è€é…±	lao jiang	1
+è€æ¯é¸¡	lao mu ji	1
+è€å—ç“œ	lao nan gua	1
+è€å©†é¥¼	lao po bing	1
+è€ç”Ÿå§œ	lao sheng jiang	1
+è€åœŸé¸¡	lao tu ji	1
+è€é¦™èŠ‹	lao xiang yu	1
+è€é¸­	lao ya	1
+è”è’¿	li hao	1
+é»è’¿	li hao	1
+é»çº¢èŠ±æ¤’æ²¹ç“¶	li hong hua jiao you ping	1
+é‡Œè„Šè‚‰	li ji rou	1
+æé”¦è®°è´¢ç¥è€—æ²¹ç“¶	li jin ji cai shen hao you ping	1
+æé”¦è®°å‰çƒ§é…±ç“¶	li jin ji cha shao jiang ping	1
+æé”¦è®°è±†ç“£é…±ç“¶	li jin ji dou ban jiang ping	1
+æé”¦è®°æµ·é²œé…±ç“¶	li jin ji hai xian jiang ping	1
+æé”¦è®°ç²¾é€‰ç”ŸæŠ½æ¡¶	li jin ji jing xuan sheng chou tong	1
+æé”¦è®°æ—§åº„è€—æ²¹ç“¶	li jin ji jiu zhuang hao you ping	1
+æé”¦è®°æ’éª¨é…±ç“¶	li jin ji pai gu jiang ping	1
+æé”¦è®°è’œè“‰é…±ç“¶	li jin ji suan rong jiang ping	1
+æé”¦è®°è™¾é…±ç“¶	li jin ji xia jiang ping	1
+æé”¦è®°è’¸é±¼è±‰æ²¹ç“¶	li jin ji zheng yu chi you ping	1
+æé”¦è®°æŸ±å€™é…±ç“¶	li jin ji zhu hou jiang ping	1
+ææ´¾æ—æ€¥æ±ç“¶	li pai lin ji zhi ping	1
+è”æµ¦èŠ‹å¤´	li pu yu tou	1
+è”è’²èŠ‹å¤´	li pu yu tou	1
+é²¤é±¼	li yu	1
+è”æ	li zhi	1
+è²èŠ±ç™½	lian hua bai	1
+è²è—•	lian ou	1
+å‡‰ç“œ	liang gua	1
+è¾½å®éª¨é«“æµ¸è†ç“¶	liao ning gu sui jin gao ping	1
+çµèŠ	ling zhi	1
+æ¦´è²	liu lian	1
+é¾™å‡¤èŠ±å·è¢‹	long feng hua juan dai	1
+é¾™éª¨	long gu	1
+é¾™å£ç²‰ä¸è¢‹	long kou fen si dai	1
+é¾™çœ¼	long yan	1
+é¾™çœ¼èœ	long yan cai	1
+é¾™çˆªèœ	long zhua cai	1
+é¾™çˆªèœè•¨èœ	long zhua cai jue cai	1
+å¤è±†è…å¹²	lu dou fu gan	1
+é²èŠ±èŠ±ç”Ÿæ²¹æ¡¶	lu hua hua sheng you tong	1
+èŠ¦èŸ	lu hui	1
+å¤ç‰›è‚‰	lu niu rou	1
+èŠ¦ç¬‹	lu sun	1
+ç½—æ‹”é±¼èƒ¶ç²‰æ¡¶	luo ba yu jiao fen tong	1
+èåœå¹²	luo bo gan	1
+ç½—éé±¼	luo fei yu	1
+ç½—æ±‰æœä¸ª	luo han guo ge	1
+ç½—æ±‰ç¬‹åŒ…	luo han sun bao	1
+ç½—å¹³é»„å§œ	luo ping huang jiang	1
+ç»¿è½¦å˜å­ç“¶	lv che li zi ping	1
+ç»¿è±†èŠ½	lv dou ya	1
+ç»¿èŠ¹èœ	lv qin cai	1
+ç»¿ç»†å°–æ¤’	lv xi jian jiao	1
+ç»¿å°ç±³èœ	lv xiao mi cai	1
+ç»¿å°ç±³è¾£	lv xiao mi la	1
+éº»è¾£é…±æ¡¶è£…	ma la jiang tong zhuang	1
+éº»è¾£èåœå¹²	ma la luo bo gan	1
+é©¬å¥¶è‘¡è„	ma nai pu tao	1
+é©¬è¹„	ma ti	1
+é©¬è¹„èœ	ma ti cai	1
+é©¬è¹„è‚‰	ma ti rou	1
+éº¦èŠ½ç³–ç“¶	mai ya tang ping	1
+æ»¡å¤©æ˜ŸæŠŠ	man tian xing ba	1
+æ¯›è±†ç±³	mao dou mi	1
+æ¯›èŠ‹å¤´	mao yu tou	1
+ç«ç‘°èŠ±æœµ	mei gui hua duo	1
+ç¾æé²œå‘³æ±ç“¶	mei ji xian wei zhi ping	1
+ç¾ç«é¢ç²‰è¢‹	mei mei mian fen dai	1
+ç¾äººæ¤’	mei ren jiao	1
+èœœè±†	mi dou	1
+èœœè±†ç”œè„†è±†	mi dou tian cui dou	1
+å¼¥æ¸¡è…Œèœ	mi du yan cai	1
+å¼¥æ¸¡è…Œèœä»¶	mi du yan cai jian	1
+èœœæ¡”	mi ju	1
+ç±³çº¿	mi xian	1
+èœœæŸš	mi you	1
+é¢åŒ…æ”¹è‰¯å‰‚åŒ…	mian bao gai liang ji bao	1
+é¢åŒ…ç³ åŒ…	mian bao kang bao	1
+é¢åŒ…ç³–åŒ…	mian bao tang bao	1
+å¦™å¤šå’–å–±è†ç“¶	miao duo ga li gao ping	1
+ç£¨è±‰é…±ç“¶	mo chi jiang ping	1
+ç£¨åè…¿è‚‰	mo hou tui rou	1
+èŒ‰è‰èŠ±	mo li hua	1
+ç£¨å‰è…¿è‚‰	mo qian tui rou	1
+å¢¨èŒ„å­	mo qie zi	1
+ç£¨èŠ‹è±†è…	mo yu dou fu	1
+é­”èŠ‹è±†è…	mo yu dou fu	1
+æœ¨è€³èœ	mu er cai	1
+æœ¨ç“œ	mu gua	1
+æœ¨ç“œä»¶	mu gua jian	1
+å¥¶ç²‰è¢‹	nai fen dai	1
+å—åŒ—æ	nan bei xing	1
+å—ç“œ	nan gua	1
+å—ç“œé¥¼	nan gua bing	1
+å—ç“œé¥¼ä»¶	nan gua bing jian	1
+å—ç“œå°–	nan gua jian	1
+å—å§œ	nan jiang	1
+å—äº¬è±†	nan jing dou	1
+è…©æ’	nan pai	1
+å—ä¹³ç“¶	nan ru ping	1
+å†…è„‚è±†è…ç›’	nei zhi dou fu he	1
+å†…é…¯è±†è…ç›’	nei zhi dou fu he	1
+å«©è±†è…	nen dou fu	1
+å«©å°è‹¦èœ	nen xiao ku cai	1
+æ³¥è—•	ni ou	1
+æ³¥é³…å¤§	ni qiu da	1
+æ³¥é³…å°	ni qiu xiao	1
+æŸ æª¬é»„è‰²ç´ ç“¶	ning meng huang se su ping	1
+ç‰›èƒŒç­‹	niu bei jin	1
+ç‰›é¥­ç›’	niu fan he	1
+ç‰›å¹²å·´	niu gan ba	1
+ç‰›å»ºå­	niu jian zi	1
+ç‰›éœ–	niu lin	1
+ç‰›è…©	niu nan	1
+ç‰›çš®èœ	niu pi cai	1
+ç‰›è‚‰	niu rou	1
+ç‰›è‚‰çƒ	niu rou qiu	1
+ç‰›èˆŒ	niu she	1
+ç‰›è…¿ç“œ	niu tui gua	1
+ç‰›è…¿è‚‰	niu tui rou	1
+ç‰›å°¾æ±¤ç“¶	niu wei tang ping	1
+ç‰›å¿ƒ	niu xin	1
+ç‰›æ²¹	niu you	1
+ç‰›å±•	niu zhan	1
+ç³¯ç±³	nuo mi	1
+æ’éª¨	pai gu	1
+æ’éª¨è‚‰	pai gu rou	1
+æ½˜æ³°ç”œè¾£é¸¡é…±ç“¶	pan tai tian la ji jiang ping	1
+æ”€æèŠ±	pan zhi hua	1
+æ”€æèŠ±è¢‹	pan zhi hua dai	1
+èƒ–è±†èŠ½	pang dou ya	1
+æ³¡å¤§è’œ	pao da suan	1
+æ³¡å¤§è’œä»¶	pao da suan jian	1
+æ³¡è±†è§’	pao dou jiao	1
+æ³¡èŠ™	pao fu	1
+æ³¡é«˜åŸçº¢å°ç±³è¾£ä»¶	pao gao yuan hong xiao mi la jian	1
+æ³¡é«˜åŸç»¿å°ç±³è¾£ä»¶	pao gao yuan lv xiao mi la jian	1
+æ³¡çº¢æ¤’	pao hong jiao	1
+æ³¡çº¢å°ç±³è¾£	pao hong xiao mi la	1
+æ³¡å§œ	pao jiang	1
+æ³¡è±‡è±†	pao jiang dou	1
+æ³¡å§œç‰‡	pao jiang pian	1
+æ³¡æ¤’	pao jiao	1
+æ³¡è— å¤´	pao jiao tou	1
+æ³¡ç»¿å°ç±³è¾£	pao lv xiao mi la	1
+æ¤ªæŸ‘	peng gan	1
+æ§ç“œ	peng gua	1
+çš®è›‹ä¸ª	pi dan ge	1
+æ‡æ·	pi pa	1
+éƒ«å¿è±†ç“£é…±æ¡¶è£…	pi xian dou ban jiang tong zhuang	1
+æ¼‚ç™½æ°´	piao bai shui	1
+ç“¢ç“œ	piao gua	1
+é£˜é¦™é¸¡åª	piao xiang ji zhi	1
+è‹¤å…°	pie lan	1
+è‹¤è“	pie lan	1
+è‹¹æœ	ping guo	1
+æ™®å®è±†é…±ç“¶	pu ning dou jiang ping	1
+è‘¡è„å¹²	pu tao gan	1
+æ™®é€šé¹…æŒä»¶	pu tong e zhang jian	1
+æ™®é€šé¥µå—ä¸ª	pu tong er kuai ge	1
+ä¸ƒç”¸è€é…±	qi dian lao jiang	1
+ä¸ƒç”¸å¤è…å°ç½	qi dian lu fu xiao guan	1
+ä¸ƒç”¸å¤è…å°ç“¶ä»¶	qi dian lu fu xiao ping jian	1
+ä¸ƒç”¸å¤è…ä¸­ç½	qi dian lu fu zhong guan	1
+ä¸ƒç”¸æ•£è£…å¤è…	qi dian san zhuang lu fu	1
+å‰è…¿è‚‰	qian tui rou	1
+å‰è‚˜	qian zhou	1
+èŒ„æ±ç“¶	qie zhi ping	1
+èŒ„å­	qie zi	1
+èŒ„å­æ¦¨	qie zi zha	1
+èŒ„å­æ¸£	qie zi zha	1
+èŠ¹èœ	qin cai	1
+é’èœå¿ƒ	qing cai xin	1
+é’èš•è±†ç±³	qing can dou mi	1
+é’è‘±	qing cong	1
+é’è±†è§’	qing dou jiao	1
+é’èŠ±èœ	qing hua cai	1
+é’å°–æ¤’	qing jian jiao	1
+é’æŸ æª¬	qing ning meng	1
+é’è’œè‹—	qing suan miao	1
+é’è’œå¶	qing suan ye	1
+é’ç¬‹	qing sun	1
+é’ç¬‹å°–	qing sun jian	1
+é’å°ç±³è¾£	qing xiao mi la	1
+é’æ£	qing zao	1
+å»éª¨é¸­æŒçš®åŒ…	qu gu ya zhang pi bao	1
+å»å£³èš•è±†	qu ke can dou	1
+å»çš®åŒ…è°·æ£’	qu pi bao gu bang	1
+å»çš®è¸è 	qu pi bi qi	1
+å»çš®åè…¿è‚‰	qu pi hou tui rou	1
+å»çš®å§œ	qu pi jiang	1
+å»çš®èŒ­ç“œ	qu pi jiao gua	1
+å»çš®è€å§œ	qu pi lao jiang	1
+å»çš®æ¯›èŠ‹å¤´	qu pi mao yu tou	1
+å»çš®å—ç“œ	qu pi nan gua	1
+å»çš®å‰è…¿è‚‰	qu pi qian tui rou	1
+å»çš®é’ç¬‹	qu pi qing sun	1
+å»çš®å±±è¯	qu pi shan yao	1
+å»çš®äº”èŠ±è‚‰	qu pi wu hua rou	1
+å»çš®æ´‹èŠ‹	qu pi yang yu	1
+å…¨æ”¯çŒªè„š	quan zhi zhu jiao	1
+é›€å·¢å¥¶ç²‰åŒ…	que chao nai fen bao	1
+é›€è±†	que dou	1
+äººå·¥èŒ	ren gong jun	1
+äººå‚èœ	ren shen cai	1
+æ—¥æœ¬è±†è…	ri ben dou fu	1
+æ—¥æœ¬è±†è…ä»¶	ri ben dou fu jian	1
+æ—¥æœ¬è±†è…æ¡	ri ben dou fu tiao	1
+æ—¥æœ¬é’ä»‹è¾£ç“¶	ri ben qing jie la ping	1
+æ—¥æœ¬ç››æ¸…é…’ç“¶	ri ben sheng qing jiu ping	1
+æ—¥æœ¬ç”Ÿé±¼å¯¿å¸é…±æ²¹ç“¶	ri ben sheng yu shou si jiang you ping	1
+æ—¥æœ¬å°é»„ç“œ	ri ben xiao huang gua	1
+æ—¥è½çº¢è‰²ç´ ç“¶	ri luo hong se su ping	1
+è‚‰é¸¡	rou ji	1
+ä¹³é¥¼	ru bing	1
+ä¹³é¸½åª	ru ge zhi	1
+ä¹³æ‰‡	ru shan	1
+ä¹³ç¾Š	ru yang	1
+è½¯æ’éª¨	ruan pai gu	1
+ä¸‰èŠ±æ·¡å¥¶åŒ…	san hua dan nai bao	1
+ä¸‰é»„é¸¡	san huang ji	1
+ä¸‰è§’ç‰Œæ—¥è½çº¢åŒ…	san jiao pai ri luo hong bao	1
+ä¸‰å¥ˆ	san nai	1
+ä¸‰å¤´ç™¾åˆ	san tou bai he	1
+ä¸‰æ–‡æ²»ç«è…¿å—	san wen zhi huo tui kuai	1
+ä¸‰æ–‡æ²»ç«è…¿æ¡	san wen zhi huo tui tiao	1
+ä¸‰è±¡ç‰Œç³¯ç±³ç²‰åŒ…	san xiang pai nuo mi fen bao	1
+ä¸‰è±¡ç‰Œé’»ç±³ç²‰åŒ…	san xiang pai zuan mi fen bao	1
+æ•£è£…ç™½é…’	san zhuang bai jiu	1
+æ•£è£…å¤è…	san zhuang lu fu	1
+æ•£è£…é²œç™¾åˆ	san zhuang xian bai he	1
+æ•£è£…é¦™è¾£é…±	san zhuang xiang la jiang	1
+æ•£è£…è…Œèœ	san zhuang yan cai	1
+æ•£è£…æ¦¨èœä¸ä»¶	san zhuang zha cai si jian	1
+è‰²æ‹‰æ²¹	se la you	1
+æ€å¥½è‰é±¼	sha hao cao yu	1
+æ€å¥½é²«é±¼	sha hao ji yu	1
+æ€å¥½é±¿é±¼	sha hao you yu	1
+æ²™å§œ	sha jiang	1
+æ²™å§œç²‰åŒ…	sha jiang fen bao	1
+æ²™å‚	sha shen	1
+æ²™æ¾å°–	sha song jian	1
+æ²™çº¸å¼ 	sha zhi zhang	1
+å±±ä¸œå†»é¸­	shan dong dong ya	1
+å±±ä¸œé»„å§œ	shan dong huang jiang	1
+æ‰‡éª¨	shan gu	1
+å±±è¥¿è€é™ˆé†‹ç“¶	shan xi lao chen cu ping	1
+å±±è¯	shan yao	1
+é³é±¼	shan yu	1
+å±±ç«¹	shan zhu	1
+çƒ§è±†è…è¢‹	shao dou fu dai	1
+è‹•ç²‰	shao fen	1
+ç”Ÿèœ	sheng cai	1
+ç”Ÿè‚ 	sheng chang	1
+ç”Ÿå§œ	sheng jiang	1
+åœ£å¥³æœ	sheng nv guo	1
+ç”Ÿæ€å°é»„ç“œ	sheng tai xiao huang gua	1
+ç”Ÿæ€å°èŒ„å­	sheng tai xiao qie zi	1
+ç”ŸçŒªè€³	sheng zhu er	1
+ç”ŸçŒªå£æ¡	sheng zhu kou tiao	1
+ç”ŸçŒªå¿ƒ	sheng zhu xin	1
+å¸ˆå‚…æ·»åŠ å‰‚åŒ…	shi fu tian jia ji bao	1
+çŸ³è†ç²‰	shi gao fen	1
+çŸ³èŠ±èœ	shi hua cai	1
+ä»€é”¦æœé…±ç“¶	shi jin guo jiang ping	1
+ä»€é”¦é…±	shi jin jiang	1
+ä»€é”¦é…±è¢‹è£…	shi jin jiang dai zhuang	1
+ä»€é”¦é…±ç½è£…	shi jin jiang guan zhuang	1
+çŸ³æ¦´	shi liu	1
+çŸ³æ¦´èŠ±	shi liu hua	1
+ç‹®ç‰Œå‰å£«ç²‰æ¡¶	shi pai ji shi fen tong	1
+çŸ³å±è±†è…	shi ping dou fu	1
+çŸ³å±è±†è…å—	shi ping dou fu kuai	1
+åä¸‰é¦™ç›’	shi san xiang he	1
+å®å‹æ³¡æ‰“ç²‰æ¡¶	shi you pao da fen tong	1
+ç†Ÿç™½äº‘è±†	shu bai yun dou	1
+æ ‘ç•ªèŒ„	shu fan qie	1
+æ ‘ç“œ	shu gua	1
+ç†Ÿçº¢è±†	shu hong dou	1
+è–¯ç‰‡	shu pian	1
+è–¯æ¡	shu tiao	1
+ç†ŸèŠéº»é…±	shu zhi ma jiang	1
+ç†ŸçŒªè€³	shu zhu er	1
+ç†ŸçŒªå£æ¡	shu zhu kou tiao	1
+ç†ŸçŒªå¿ƒ	shu zhu xin	1
+åŒé¹¤ç«ç‘°éœ²é…’ç“¶	shuang he mei gui lu jiu ping	1
+åŒæ±‡ç«è…¿è‚ ä»¶	shuang hui huo tui chang jian	1
+åŒæ±‡åˆé¤è‚‰ä¸‰æ–‡æ²»	shuang hui wu can rou san wen zhi	1
+åŒæ¡¥ç‰Œå‘³ç²¾	shuang qiao pai wei jing	1
+åŒå–œæ³¡æ‰“ç²‰æ¡¶	shuang xi pao da fen tong	1
+æ°´è±†è±‰	shui dou chi	1
+æ°´è±†è…	shui dou fu	1
+æ°´è±†èŠ±	shui dou hua	1
+æ°´å‘æµ·å¸¦ä¸	shui fa hai dai si	1
+æ°´å‘æœ¨è€³	shui fa mu er	1
+æ°´å‘ç‰›ç™½å¶	shui fa niu bai ye	1
+æ°´å‘è‚‰çš®	shui fa rou pi	1
+æ°´å‘çŒªé»„å–‰	shui fa zhu huang hou	1
+æ°´å‘ç«¹ç¬‹ä¸	shui fa zhu sun si	1
+æ°´æœ	shui guo	1
+æ°´èŠ‚èœ	shui jie cai	1
+æ°´æ™¶èŠ±æŠŠ	shui jing hua ba	1
+æ°´è•¨èœ	shui jue cai	1
+æ°´èåœä¸	shui luo bo si	1
+æ°´èåœæ¡	shui luo bo tiao	1
+æ°´èœœæ¡ƒ	shui mi tao	1
+æ°´èœœæ¡ƒç½å¤´ç“¶	shui mi tao guan tou ping	1
+æ°´é¦™èœ	shui xiang cai	1
+æ°´è…Œèœ	shui yan cai	1
+å››å·çº¢æ¡”	si chuan hong jie	1
+å››å·é»„å§œ	si chuan huang jiang	1
+å››å·æ–°å§œ	si chuan xin jiang	1
+ä¸ç“œ	si gua	1
+å››å­£å®èŠ±ç”Ÿé…±ç“¶	si ji bao hua sheng jiang ping	1
+å››å­£è±†	si ji dou	1
+é¥²æ–™åœŸé¸¡	si liao tu ji	1
+æ€å¿µæ²¹æ¡	si nian you tiao	1
+æ¾èŠ±è›‹ä¸ª	song hua dan ge	1
+é…¸èœ	suan cai	1
+é…¸èœä»¶	suan cai jian	1
+é…¸èœé±¼ä½æ–™	suan cai yu zuo liao	1
+é…¸èœé±¼ä½æ–™ä»¶	suan cai yu zuo liao jian	1
+é…¸è±‡è±†	suan jiang dou	1
+é…¸æµ†è±†è…	suan jiang dou fu	1
+è’œç±³	suan mi	1
+é…¸ç¬‹	suan sun	1
+é…¸ç¬‹ä¸	suan sun si	1
+è’œè‹”	suan tai	1
+è’œé¦™éª¨åŒ…	suan xiang gu bao	1
+é”é˜³	suo yang	1
+å¡”èŠ±èœ	ta hua cai	1
+æ³°å›½æ¡”	tai guo ju	1
+æ³°å›½è¾£é¸¡æ±ç“¶	tai guo la ji zhi ping	1
+æ³°å›½è”æ	tai guo li zhi	1
+æ³°å›½è¥¿ç±³ç“¶	tai guo xi mi ping	1
+æ³°å›½é±¼éœ²ç“¶	tai guo yu lu ping	1
+å¤ªå’Œè±†è±‰	tai he dou chi	1
+å¤ªå’Œè±†é¼“	tai he dou gu	1
+å¤ªå¤ªä¹å‘³ç²‰åŒ…	tai tai le wei fen bao	1
+å¤ªé˜³èŠ±æœµ	tai yang hua duo	1
+æ±¤æ± è€é…±	tang chi lao jiang	1
+æ±¤è¢‹ä¸ª	tang dai ge	1
+æ£ æ¢¨èŠ±	tang li hua	1
+æ£ æ¢¨èŠ±ç“¶	tang li hua ping	1
+å”æ’	tang pai	1
+ç‰¹æƒ å“ˆå¯†ç“œ	te hui ha mi gua	1
+ç‰¹çº§å†¬æ£	te ji dong zao	1
+ç”œç™½é…’	tian bai jiu	1
+ç”œç™½é…’ç›’	tian bai jiu he	1
+ç”œèœ	tian cai	1
+ç”œè„†åŒ…è°·æ£’	tian cui bao gu bang	1
+ç”œè„†åŒ…è°·ç±³	tian cui bao gu mi	1
+ç”œè„†è±†	tian cui dou	1
+ç”œè„†è±Œè±†	tian cui wan dou	1
+ç”œè„†è±Œè±†ç±³	tian cui wan dou mi	1
+å¤©å“¥å†»é¸¡è„š	tian ge dong ji jiao	1
+å¤©å’Œèºç²‰åŒ…	tian he luo fen bao	1
+ç”œè§’	tian jiao	1
+å¤©éº»	tian ma	1
+ç”œé¢é…±	tian mian jiang	1
+ç”œé¢é…±ç“¶	tian mian jiang ping	1
+ç”°ç¬‹	tian sun	1
+èŒ¼è’¿	tong hao	1
+ç«¥å­éª¨	tong zi gu	1
+ç­’å­éª¨	tong zi gu	1
+åœŸå…¬é¸¡	tu gong ji	1
+åœŸé¸¡	tu ji	1
+åœŸé¸¡è›‹	tu ji dan	1
+åœŸå¸é¢åŒ…å¤§æ¡	tu si mian bao da tiao	1
+åœŸé¸­	tu ya	1
+å¨ƒå¨ƒèœ	wa wa cai	1
+å¨ƒå¨ƒèœåŒ…	wa wa cai bao	1
+å¨ƒå¨ƒèœè¢‹	wa wa cai dai	1
+è±Œè±†ç²‰	wan dou fen	1
+è±Œè±†ç±³	wan dou mi	1
+è±Œè±†èŠ½	wan dou ya	1
+ä¸‡äººè¿·è¾£æ¤’æ²¹ç“¶	wan ren mi la jiao you ping	1
+ç‹å®ˆä¹‰å­œç„¶ç²‰åŒ…	wang shou yi zi ran fen bao	1
+ç½‘çº¹ç“œ	wang wen gua	1
+å°¾éª¨	wei gu	1
+å¨åŒ–çº¸åŒ…	wei hua zhi bao	1
+å‘³æ¤’ç›ç“¶	wei jiao yan ping	1
+æ–‡å±±é¸¡	wen shan ji	1
+çªçªå¤´è¢‹	wo wo tou dai	1
+æ­¦å®šé¸¡	wu ding ji	1
+æ— èŠ±è¾¹ç”Ÿèœ	wu hua bian sheng cai	1
+æ— èŠ±æœ	wu hua guo	1
+äº”èŠ±è‚‰	wu hua rou	1
+äº”èŠ±è‚‰ç£¨	wu hua rou mo	1
+äº”èŠ±è‚‰ç‰‡	wu hua rou pian	1
+ä¹Œé¸¡	wu ji	1
+æ— ç¢±é²œé¢æ¡	wu jian xian mian tiao	1
+ä¹Œæ±Ÿæ¦¨èœå°åŒ…	wu jiang zha cai xiao bao	1
+æ— ç­‹è±†	wu jin dou	1
+æ— ç­‹å››å­£è±†	wu jin si ji dou	1
+æ— é“…æ¾èŠ±è›‹ä¸ª	wu qian song hua dan ge	1
+å‹¿å¿˜æˆ‘æŠŠ	wu wang wo ba	1
+æ— çœ¼è è	wu yan bo luo	1
+è¥¿å¨æµ·å¸¦ä¸	xi chu hai dai si	1
+è¥¿ç“œ	xi gua	1
+è¥¿çº¢æŸ¿	xi hong shi	1
+ç»†å°–æ¤’	xi jian jiao	1
+æ´—æ´ç²¾	xi jie jing	1
+è¥¿å…°èŠ±	xi lan hua	1
+ç»†ç±³çº¿	xi mi xian	1
+æ´—è—•	xi ou	1
+è¥¿èŠ¹	xi qin	1
+è¥¿ç”Ÿèœ	xi sheng cai	1
+è¥¿ç”Ÿèœçƒç”Ÿèœ	xi sheng cai qiu sheng cai	1
+ç»†è…Œèœ	xi yan cai	1
+è¥¿æ´‹èœ	xi yang cai	1
+å¸æ²¹çº¸å¼ 	xi you zhi zhang	1
+è¥¿å…ƒè¥¿	xi yuan xi	1
+å¤æœè¢‹	xia guo dai	1
+è™¾ç‰‡ç›’	xia pian he	1
+å¤å¨å¤·æœ¨ç“œ	xia wei yi mu gua	1
+é²œç™¾åˆ	xian bai he	1
+é²œç™¾åˆåŒ…	xian bai he bao	1
+é²œèŒ¶æ ‘è‡	xian cha shu gu	1
+å’¸è›‹ä¸ª	xian dan ge	1
+å’¸è›‹é»„æ¿	xian dan huang ban	1
+å’¸è›‹é»„çº¢å¤ªé˜³è¢‹	xian dan huang hong tai yang dai	1
+é²œå†¬è‡	xian dong gu	1
+é²œå¹²è±†	xian gan dou	1
+é²œè·å¶æ ¹	xian he ye gen	1
+é²œèŠ±æ¤’	xian hua jiao	1
+é²œé¸¡æ²¹	xian ji you	1
+é²œèŠ¦ç¬‹	xian lu sun	1
+é²œé¢æ¡	xian mian tiao	1
+é²œè˜‘è‡	xian mo gu	1
+é²œæŸ æª¬	xian ning meng	1
+ä»™äººæŒ	xian ren zhang	1
+é²œè‚‰æ°´é¥ºè¢‹	xian rou shui jiao dai	1
+é²œæ²™å§œ	xian sha jiang	1
+é²œæ²™æ¾å°–	xian sha song jian	1
+é²œå±±è¯	xian shan yao	1
+é²œè±Œè±†ç±³	xian wan dou mi	1
+é²œè¥¿èŠ¹	xian xi qin	1
+é²œé¦™è‡	xian xiang gu	1
+å’¸é¸­è›‹	xian ya dan	1
+å’¸é¸­è›‹ä¸ª	xian ya dan ge	1
+é²œç«¹ç¬‹	xian zhu sun	1
+é¦™èœ	xiang cai	1
+é¦™æ¤¿	xiang chun	1
+é¦™è‘±	xiang cong	1
+é¦™è±†è…	xiang dou fu	1
+é¦™è±†è…è¢‹	xiang dou fu dai	1
+é¦™å¹²	xiang gan	1
+é¦™è‡	xiang gu	1
+é¦™ç“œ	xiang gua	1
+é¦™è•‰	xiang jiao	1
+é¦™è¾£é…±	xiang la jiang	1
+é¦™è¾£é…±æ¡¶è£…	xiang la jiang tong zhuang	1
+é¦™è¾£é…¥è¢‹	xiang la su dai	1
+é¦™æ¢¨	xiang li	1
+é¦™æŸ³	xiang liu	1
+é¦™èŒ…	xiang mao	1
+é¦™èŒ…è‰	xiang mao cao	1
+é¦™ç±³é¥µå—ä¸ª	xiang mi er kuai ge	1
+é¦™èŠ¹	xiang qin	1
+è±¡å±±è…ç«¹	xiang shan fu zhu	1
+ç›¸æ€èœ	xiang si cai	1
+ç›¸æ€èœæ¿	xiang si cai ban	1
+é¦™ç¬‹	xiang sun	1
+æ¹˜è¥¿å¤–å©†èœ	xiang xi wai po cai	1
+é¦™å¶	xiang ye	1
+é¦™èŠ‹	xiang yu	1
+é¦™èŠ‹é¥¼ä»¶	xiang yu bing jian	1
+é¦™èŠ‹è‰²é¦™æ²¹ç“¶	xiang yu se xiang you ping	1
+å°ç™½èœ	xiao bai cai	1
+å°è èœ	xiao bo cai	1
+å°è‘±	xiao cong	1
+å°åˆ€çƒ¤é¸­åª	xiao dao kao ya zhi	1
+å°åˆ€é¸­ç”Ÿ	xiao dao ya sheng	1
+å°å†»èŒ	xiao dong jun	1
+å°è±†èŠ½	xiao dou ya	1
+å°ç•ªèŒ„	xiao fan qie	1
+å°ç“œ	xiao gua	1
+å°æ ¸æ¡‚åœ†	xiao he gui yuan	1
+å°æ ¸é¾™çœ¼	xiao he long yan	1
+å°é»„ç“œ	xiao huang gua	1
+å°é»„å§œ	xiao huang jiang	1
+å°å§¬è‡	xiao ji gu	1
+å°å°–æ¤’	xiao jian jiao	1
+å°é‡‘ç“œ	xiao jin gua	1
+å°é‡‘æ¡”	xiao jin ju	1
+å°äº¬ç™½èœ	xiao jing bai cai	1
+å°éŸ­èœ	xiao jiu cai	1
+å°è•¨èœ	xiao jue cai	1
+å°è‹¦èœ	xiao ku cai	1
+å°è²èŠ±ç™½	xiao lian hua bai	1
+å°éº¦å­	xiao mai zi	1
+å°é¦’å¤´è¢‹	xiao man tou dai	1
+å°é¦’å¤´ä¸ª	xiao man tou ge	1
+å°èŠ’æœ	xiao mang guo	1
+å°ç«ç‘°æŠŠ	xiao mei gui ba	1
+å°ç±³	xiao mi	1
+å°ç±³èœ	xiao mi cai	1
+å°é’èœ	xiao qing cai	1
+å°é’æ¤’	xiao qing jiao	1
+å°çƒ§è±†è…	xiao shao dou fu	1
+å°å”èœ	xiao tang cai	1
+å°é¦™ç“œ	xiao xiang gua	1
+å°é¦™èŠ¹ç»¿	xiao xiang qin lv	1
+å°æ¨±æ¡ƒçº¢çš®èåœ	xiao ying tao hong pi luo bo	1
+å°èŠ‹å¤´	xiao yu tou	1
+å°åœ†ç­’	xiao yuan tong	1
+å°çŒªè„š	xiao zhu jiao	1
+æ–°çš„æ©™æ±ç“¶	xin de cheng zhi ping	1
+æ–°çš„æŸ æª¬æ±ç“¶	xin de ning meng zhi ping	1
+æ–°è±†è…çš®	xin dou fu pi	1
+æ–°é»„å¿ƒæ´‹èŠ‹	xin huang xin yang yu	1
+æ–°å§œ	xin jiang	1
+å¿ƒçµç¾	xin ling mei	1
+æ–°å¥‡å£«æ©™	xin qi shi cheng	1
+æ–°é²œé»‘æ¯›è‚š	xin xian hei mao du	1
+æ–°é²œç”œç¬‹	xin xian tian sun	1
+æ–°é²œè™¾ä»	xin xian xia ren	1
+æ–°é²œé¦™èŒ…è‰	xin xian xiang mao cao	1
+æ–°é²œå°ç±³è¾£	xin xian xiao mi la	1
+æ–°é²œç«¹ç¬‹	xin xian zhu sun	1
+æ–°æ´‹èŠ‹	xin yang yu	1
+æé²è‡	xing bao gu	1
+æ˜Ÿæ¹–éº¦èŠ½ç²‰åŒ…	xing hu mai ya fen bao	1
+æä»ç‰‡æ•£	xing ren pian san	1
+ç†ŠçŒ«ç‰Œç‚¼ä¹³ç“¶	xiong mao pai lian ru ping	1
+å®£å¨ç«è…¿	xuan wei huo tui	1
+é›ªç¢§ç“¶	xue bi ping	1
+é›ªè›¤	xue ha	1
+é›ªå…°ç‰›å¥¶ä»¶	xue lan niu nai jian	1
+é›ªæ¢¨	xue li	1
+è¡€çš®èœ	xue pi cai	1
+è¡€æ—º	xue wang	1
+é¸­è‚ 	ya chang	1
+é¸­è›‹	ya dan	1
+é¸­è›‹ä¸ª	ya dan ge	1
+é¸­èˆŒ	ya she	1
+é¸­ç	ya zhen	1
+ç›åŒ…	yan bao	1
+è…Œèœ	yan cai	1
+è…ŒèœåŒ…	yan cai bao	1
+è…Œèœæ— è‰²ç´ 	yan cai wu se su	1
+ç›è›‹ä¸ª	yan dan ge	1
+è…Œé¸¡	yan ji	1
+è…Œè— å¤´	yan jiao tou	1
+ç›ç„—é¸¡ç²‰è¢‹	yan ju ji fen dai	1
+ç›ç„—é¸¡ç²‰ç›’	yan ju ji fen he	1
+è…Œå°ç™½é±¼	yan xiao bai yu	1
+ç›å°åŒ…	yan xiao bao	1
+æ´‹è‘±	yang cong	1
+ç¾Šè‚šèŒ	yang du jun	1
+æ´‹èŠ±èœ	yang hua cai	1
+æ´‹é¸¡è›‹ä»¶	yang ji dan jian	1
+é˜³æ±Ÿè±†è±‰ç›’	yang jiang dou chi he	1
+ç¾Šè§’èœ	yang jiao cai	1
+æ´‹å…°èŠ±æŠŠ	yang lan hua ba	1
+æ¨æ¢…	yang mei	1
+ç¾Šä¹³é¥¼	yang ru bing	1
+æ´‹ä¸ç“œ	yang si gua	1
+æ´‹ä¸ç“œå°–	yang si gua jian	1
+æ¨æ¡ƒ	yang tao	1
+è…°èŠ±	yao hua	1
+é‡å…¬é¸¡	ye gong ji	1
+æ¤°çš‡	ye huang	1
+é‡èŠ¥å…°	ye jie lan	1
+å¶èåœ	ye luo bo	1
+é‡æ¯é¸¡	ye mu ji	1
+æ¤°é’	ye qing	1
+é‡å±±æ¤’ç“¶	ye shan jiao ping	1
+é‡ç”Ÿè èœ	ye sheng ji cai	1
+é‡ç”œèœ	ye tian cai	1
+ä¸€èˆ¬çš„è‚¥è‚‰	yi ban de fei rou	1
+æ„å¤§åˆ©ç²‰åŒ…	yi da li fen bao	1
+ä¸€è‘µç‰æ¡‚ç²‰ç“¶	yi kui yu gui fen ping	1
+å®œè‰¯çƒ¤é¸­	yi liang kao ya	1
+ä¼Šé¢åŒ…	yi mian bao	1
+é“¶é’ˆè‡	yin zhen gu	1
+æ²¹è±†è…	you dou fu	1
+æ²¹æ¡ƒ	you tao	1
+é±¼è‚š	yu du	1
+ç‰å…°ç‰‡	yu lan pian	1
+ç‰ç±³	yu mi	1
+ç‰ç±³æ£’	yu mi bang	1
+ç‰ç±³æ£’æ°´æœ	yu mi bang shui guo	1
+ç‰ç±³ç²’	yu mi li	1
+ç‰ç±³ç”Ÿç²‰	yu mi sheng fen	1
+ç‰ç±³ç¬‹	yu mi sun	1
+èŠ‹å¤´èŠ±	yu tou hua	1
+èŠ‹å¤´ä»”	yu tou zai	1
+ç‰é¦™ç²‰ç“¶	yu xiang fen ping	1
+åœ†è±†	yuan dou	1
+åœ†æ†è‹¦èœ	yuan gan ku cai	1
+å‘˜å·¥æµ·å¸¦ä¸	yuan gong hai dai si	1
+èŠ«èŒœç²‰åŒ…	yuan qian fen bao	1
+èŠ«èŒœç±½	yuan qian zi	1
+ä»”å§‘åª	zai gu zhi	1
+ä»”å§œ	zai jiang	1
+ä»”æ’	zai pai	1
+ä»”æ’éª¨	zai pai gu	1
+è—çº¢èŠ±	zang hong hua	1
+è—çº¢èŠ±èœ	zang hong hua cai	1
+ç³Ÿè¾£å­	zao la zi	1
+æ¦¨èœ	zha cai	1
+æ¦¨èœè¢‹	zha cai dai	1
+æ¦¨èœä¸è¢‹	zha cai si dai	1
+æ˜­é€šé…±	zhao tong jiang	1
+æŠ˜è€³æ ¹	zhe er gen	1
+æŠ˜è€³æ ¹å¶	zhe er gen ye	1
+æŠ˜å¶	zhe ye	1
+çç èœ	zhen zhu cai	1
+çç é¸¡	zhen zhu ji	1
+è’¸è‚‰ç²‰è¢‹	zheng rou fen dai	1
+æ­£ä¹‰çº¯çŒªæ²¹æ¡¶	zheng yi chun zhu you tong	1
+ç›´è‘±	zhi cong	1
+èŠéº»èœ	zhi ma cai	1
+èŠéº»èŠ±	zhi ma hua	1
+èŠéº»æ²¹	zhi ma you	1
+èŠéº»æ²¹ç“¶	zhi ma you ping	1
+æ±ç“¶	zhi ping	1
+æ”¯ç«¹	zhi zhu	1
+çš±çš®æ¤’	zhou pi jiao	1
+çš±é’æ¤’	zhou qing jiao	1
+è‚˜å­	zhou zi	1
+ç…®ç™½äº‘è±†	zhu bai yun dou	1
+çŒªæ¿æ²¹	zhu ban you	1
+ç…®åˆ€è±†	zhu dao dou	1
+çŒªè‚š	zhu du	1
+çŒªè€³	zhu er	1
+çŒªè‚ºä¸ª	zhu fei ge	1
+çŒªç²‰è‚ 	zhu fen chang	1
+çŒªè‚	zhu gan	1
+ç…®çº¢è±†	zhu hong dou	1
+çŒªè„‘èŠ±	zhu nao hua	1
+çŒªçš®	zhu pi	1
+çŒªèˆŒ	zhu she	1
+æœ±å¸ˆå‚…æœå†»è¢‹	zhu shi fu guo dong dai	1
+çŒªæ‰‹	zhu shou	1
+ç«¹ä¸é¸¡	zhu si ji	1
+ç«¹ç¬‹ä¸	zhu sun si	1
+ç«¹ç¬‹å¬	zhu sun ting	1
+çŒªè¹„	zhu ti	1
+çŒªå°¾	zhu wei	1
+çŒªå°è‚ 	zhu xiao chang	1
+çŒªå¿ƒ	zhu xin	1
+çŒªè¡€	zhu xue	1
+ç´«èœåŒ…	zi cai bao	1
+ç´«èœæ	zi cai ti	1
+ç´«è‰	zi cao	1
+ç´«å‘èç²‰ä»¶	zi fa qiao fen jian	1
+ç´«å‘ç‰ç±³ç²‰ä»¶	zi fa yu mi fen jian	1
+ä»”é¸¡	zi ji	1
+ç´«èŠ¥å…°	zi jie lan	1
+ç´«è²èŠ±ç™½	zi lian hua bai	1
+ç´«ç½—å…°æŠŠ	zi luo lan ba	1
+ç´«ç³¯ç±³	zi nuo mi	1
+ç´«çš®çº¢è–¯	zi pi hong shu	1
+ç´«èŒ„å­	zi qie zi	1
+ç´«è‹	zi su	1
+ç´«å¤ªé˜³èŠ±æŠŠ	zi tai yang hua ba	1
+ç»¼åˆç±»	zong he lei	1

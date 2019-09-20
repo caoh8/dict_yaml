@@ -1,9 +1,10 @@
----
+﻿---
 name: luna_pinyin.songpackage
 version: "20190905"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+songpackage.dict	dictmusic	1
 阿弟去当兵	a di qu dang bing	1
 阿飞和他的那个女人	a fei he ta de na ge nv ren	1
 阿福	a fu	1

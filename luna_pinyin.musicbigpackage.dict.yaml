@@ -1,9 +1,10 @@
----
+﻿---
 name: luna_pinyin.musicbigpackage
 version: "20190905"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+musicbigpackage.dict	dictmusic	1
 阿宝	a bao	1
 阿爆	a bao	1
 阿博	a bo	1

@@ -1,184 +1,185 @@
----
+ï»¿---
 name: luna_pinyin.qinqi
 version: "20190905"
 sort: by_weight
 use_preset_vocabulary: true
 ...
-'a'ba °¢°Ö
-'a'bo °¢²®
-'a'die °¢µù
-'a'ma °¢Âè
-'a'niang °¢Äï
-'a'shen °¢Éô
-'a'shu °¢Êå
-'a'yi °¢ÒÌ
-'ba'ba °Ö°Ö
-'biao'di ±íµÜ
-'biao'ge ±í¸ç
-'biao'gu ±í¹Ã
-'biao'jie ±í½ã
-'biao'mei ±íÃÃ
-'biao'shu ±íÊå
-'biao'xiong'di ±íĞÖµÜ
-'biao'zhi ±íÖ¶
-'biao'zi'mei ±íæ¢ÃÃ
-'bo'bo ²®²®
-'bo'fu ²®¸¸
-'bo'mu ²®Ä¸
-'bo'shu ²®Êå
-'ceng'wai'zu'fu ÔøÍâ×æ¸¸
-'ceng'wai'zu'mu ÔøÍâ×æÄ¸
-'da'bo ´ó²®
-'da'gu ´ó¹Ã
-'da'gu'zi ´ó¹Ã×Ó
-'da'jiu'zi ´ó¾Ë×Ó
-'da'ma ´óÂè
-'da'niang ´óÄï
-'da'ye ´óÒ¯
-'da'yi ´óÒÌ
-'di'di µÜµÜ
-'di'fu µÜ¸¾
-'di'mei µÜÃÃ
-'di'xi µÜÏ±
-'die'di µùµØ
-'er'di ¶şµÜ
-'er'xi ¶ùÏ±
-'er'xi'fu ¶ùÏ±¸¾
-'er'zi ¶ù×Ó
-'fu'qin ¸¸Ç×
-'gan'die ¸Éµù
-'gan'ma ¸ÉÂè
-'gan'qin'jia ¸ÉÇ×¼Ò
-'gao'zu'fu ¸ß×æ¸¸
-'gao'zu'mu ¸ß×æÄ¸
-'ge'ge ¸ç¸ç
-'gong'gong ¹«¹«
-'gu'fu ¹Ã·ò
-'gu'gu ¹Ã¹Ã
-'gu'mu ¹ÃÄ¸
-'gu'nai'nai ¹ÃÄÌÄÌ
-'gu'ye ¹ÃÒ¯
-'ji'fu ¼Ì¸¸
-'ji'mu ¼ÌÄ¸
-'ji'niang ¼ÌÄï
-'ji'ye ¼ÌÒ¯
-'jie'fu ½ã·ò
-'jie'jie ½ã½ã
-'jin'di ½óµÜ
-'jin'xiong ½óĞÖ
-'jin'zi æ¡×Ó
-'jiu'fu ¾Ë¸¸
-'jiu'jiu ¾Ë¾Ë
-'jiu'lao ¾ËÀÑ
-'jiu'ma ¾ËÂè
-'jiu'mu ¾ËÄ¸
-'jiu'mu'zi ¾ËÄ¸×Ó
-'lao'di ÀÏµÜ
-'lao'ge ÀÏ¸ç
-'lao'gong ÀÏ¹«
-'lao'jie ÀÏ½ã
-'lao'lao ÀÑÀÑ
-'lao'mei ÀÏÃÃ
-'lao'nai'nai ÀÏÄÌÄÌ
-'lao'po ÀÏÆÅ
-'lao'tiao ÀÏÌô
-'lao'ye ÀÑÒ¯
-'lao'ye ÀÏÒ¯
-'lao'ye'ye ÀÏÒ¯Ò¯
-'lian'jin Á¬½ó
-'ma'ma ÂèÂè
-'ma'mi Âèßä
-'mei'fu ÃÃ·ò
-'mei'mei ÃÃÃÃ
-'mu'qin Ä¸Ç×
-'nai'nai ÄÌÄÌ
-'nan'nan àîàî
-'nan'nan àïàï
-'nei'di ÄÚµÜ
-'nei'xiong ÄÚĞÖ
-'niang'jiu Äï¾Ë
-'nv'er Å®¶ù
-'nv'xu Å®Ğö
-'pang'xi ÅÔÏµ
-'po'po ÆÅÆÅ
-'qi'mei'zi ÆŞÃÃ×Ó
-'qi'zi ÆŞ×Ó
-'qin'ren Ç×ÈË
-'san'di ÈıµÜ
-'sao'zi É©×Ó
-'shen'mu ÉôÄ¸
-'shen'shen ÉôÉô
-'shen'zi Éô×Ó
-'shu'fu Êå¸¸
-'shu'shu ÊåÊå
-'shu'zhang'mu ÊåÕÉÄ¸
-'shu'zhang'ren ÊåÕÉÈË
-'sun'nv ËïÅ®
-'sun'nv'xu ËïÅ®Ğö
-'sun'xi'fu ËïÏ±¸¾
-'sun'zi Ëï×Ó
-'tang'di ÌÃµÜ
-'tang'ge ÌÃ¸ç
-'tang'jie ÌÃ½ã
-'tang'mei ÌÃÃÃ
-'tang'xiong'di ÌÃĞÖµÜ
-'tang'zi'mei ÌÃæ¢ÃÃ
-'wai'gong Íâ¹«
-'wai'po ÍâÆÅ
-'wai'sheng ÍâÉû
-'wai'sheng'nv ÍâÉûÅ®
-'wai'sheng'nv'xu ÍâÉûÅ®Ğö
-'wai'sheng'xi'fu ÍâÉûÏ±¸¾
-'wai'sun ÍâËï
-'wai'sun'nv ÍâËïÅ®
-'wai'zu'fu Íâ×æ¸¸
-'wai'zu'mu Íâ×æÄ¸
-'xi'fu Ï±¸¾
-'xiao'gu Ğ¡¹Ã
-'xiao'gu'zi Ğ¡¹Ã×Ó
-'xiao'jiu'zi Ğ¡¾Ë×Ó
-'xiao'shu Ğ¡Êå
-'xiao'yi Ğ¡ÒÌ
-'xiao'yi'mei Ğ¡ÒÌÃÃ
-'xiong'di ĞÖµÜ
-'xuan'sun ĞşËï
-'xue'lao'biao ÑªÀÏ±í
-'yang'fu Ñø¸¸
-'yang'mu ÑøÄ¸
-'yao'ba çÛ°Ö
-'yao'shen çÛÉô
-'ye'shu Ò¯Êå
-'ye'ye Ò¯Ò¯
-'yi'fu ÒÌ·ò
-'yi'gong ÒÌ¹«
-'yi'jie ÒÌ½ã
-'yi'lao'biao ÒÌÀÏ±í
-'yi'ma ÒÌÂè
-'yi'mei ÒÌÃÃ
-'yi'mei'fu ÒÌÃÃ·ò
-'yi'mu ÒÌÄ¸
-'yi'shu ÒÌÊå
-'yin'qin ÒöÇ×
-'you'di Ó×µÜ
-'you'mei Ó×ÃÃ
-'yue'fu ÔÀ¸¸
-'yue'mu ÔÀÄ¸
-'zeng'sun ÔøËï
-'zeng'zu'fu Ôø×æ¸¸
-'zeng'zu'mu Ôø×æÄ¸
-'zhang'fu ÕÉ·ò
-'zhang'mu'niang ÕÉÄ¸Äï
-'zhang'ren ÕÉÈË
-'zhang'xiong ³¤ĞÖ
-'zhang'zi ³¤æ¢
-'zhi'nv Ö¶Å®
-'zhi'nv'xu Ö¶Å®Ğö
-'zhi'sun Ö¶Ëï
-'zhi'sun'nv Ö¶ËïÅ®
-'zhi'xi'fu Ö¶Ï±¸¾
-'zhi'zi Ö¶×Ó
-'zhou'li æ¨æ²
-'zi'fu æ¢·ò
-'zu'fu ×æ¸¸
-'zu'gu'mu ×æ¹ÃÄ¸
-'zu'mu ×æÄ¸
+qinqi.dict	dictmusic	1
+é˜¿çˆ¸	a ba	1
+é˜¿ä¼¯	a bo	1
+é˜¿çˆ¹	a die	1
+é˜¿å¦ˆ	a ma	1
+é˜¿å¨˜	a niang	1
+é˜¿å©¶	a shen	1
+é˜¿å”	a shu	1
+é˜¿å§¨	a yi	1
+çˆ¸çˆ¸	ba ba	1
+è¡¨å¼Ÿ	biao di	1
+è¡¨å“¥	biao ge	1
+è¡¨å§‘	biao gu	1
+è¡¨å§	biao jie	1
+è¡¨å¦¹	biao mei	1
+è¡¨å”	biao shu	1
+è¡¨å…„å¼Ÿ	biao xiong di	1
+è¡¨ä¾„	biao zhi	1
+è¡¨å§Šå¦¹	biao zi mei	1
+ä¼¯ä¼¯	bo bo	1
+ä¼¯çˆ¶	bo fu	1
+ä¼¯æ¯	bo mu	1
+ä¼¯å”	bo shu	1
+æ›¾å¤–ç¥–çˆ¶	ceng wai zu fu	1
+æ›¾å¤–ç¥–æ¯	ceng wai zu mu	1
+å¤§ä¼¯	da bo	1
+å¤§å§‘	da gu	1
+å¤§å§‘å­	da gu zi	1
+å¤§èˆ…å­	da jiu zi	1
+å¤§å¦ˆ	da ma	1
+å¤§å¨˜	da niang	1
+å¤§çˆ·	da ye	1
+å¤§å§¨	da yi	1
+å¼Ÿå¼Ÿ	di di	1
+å¼Ÿå¦‡	di fu	1
+å¼Ÿå¦¹	di mei	1
+å¼Ÿåª³	di xi	1
+çˆ¹åœ°	die di	1
+äºŒå¼Ÿ	er di	1
+å„¿åª³	er xi	1
+å„¿åª³å¦‡	er xi fu	1
+å„¿å­	er zi	1
+çˆ¶äº²	fu qin	1
+å¹²çˆ¹	gan die	1
+å¹²å¦ˆ	gan ma	1
+å¹²äº²å®¶	gan qin jia	1
+é«˜ç¥–çˆ¶	gao zu fu	1
+é«˜ç¥–æ¯	gao zu mu	1
+å“¥å“¥	ge ge	1
+å…¬å…¬	gong gong	1
+å§‘å¤«	gu fu	1
+å§‘å§‘	gu gu	1
+å§‘æ¯	gu mu	1
+å§‘å¥¶å¥¶	gu nai nai	1
+å§‘çˆ·	gu ye	1
+ç»§çˆ¶	ji fu	1
+ç»§æ¯	ji mu	1
+ç»§å¨˜	ji niang	1
+ç»§çˆ·	ji ye	1
+å§å¤«	jie fu	1
+å§å§	jie jie	1
+è¥Ÿå¼Ÿ	jin di	1
+è¥Ÿå…„	jin xiong	1
+å¦—å­	jin zi	1
+èˆ…çˆ¶	jiu fu	1
+èˆ…èˆ…	jiu jiu	1
+èˆ…å§¥	jiu lao	1
+èˆ…å¦ˆ	jiu ma	1
+èˆ…æ¯	jiu mu	1
+èˆ…æ¯å­	jiu mu zi	1
+è€å¼Ÿ	lao di	1
+è€å“¥	lao ge	1
+è€å…¬	lao gong	1
+è€å§	lao jie	1
+å§¥å§¥	lao lao	1
+è€å¦¹	lao mei	1
+è€å¥¶å¥¶	lao nai nai	1
+è€å©†	lao po	1
+è€æŒ‘	lao tiao	1
+å§¥çˆ·	lao ye	1
+è€çˆ·	lao ye	1
+è€çˆ·çˆ·	lao ye ye	1
+è¿è¥Ÿ	lian jin	1
+å¦ˆå¦ˆ	ma ma	1
+å¦ˆå’ª	ma mi	1
+å¦¹å¤«	mei fu	1
+å¦¹å¦¹	mei mei	1
+æ¯äº²	mu qin	1
+å¥¶å¥¶	nai nai	1
+å›å›	nan nan	1
+å›¡å›¡	nan nan	1
+å†…å¼Ÿ	nei di	1
+å†…å…„	nei xiong	1
+å¨˜èˆ…	niang jiu	1
+å¥³å„¿	nv er	1
+å¥³å©¿	nv xu	1
+æ—ç³»	pang xi	1
+å©†å©†	po po	1
+å¦»å¦¹å­	qi mei zi	1
+å¦»å­	qi zi	1
+äº²äºº	qin ren	1
+ä¸‰å¼Ÿ	san di	1
+å«‚å­	sao zi	1
+å©¶æ¯	shen mu	1
+å©¶å©¶	shen shen	1
+å©¶å­	shen zi	1
+å”çˆ¶	shu fu	1
+å”å”	shu shu	1
+å”ä¸ˆæ¯	shu zhang mu	1
+å”ä¸ˆäºº	shu zhang ren	1
+å­™å¥³	sun nv	1
+å­™å¥³å©¿	sun nv xu	1
+å­™åª³å¦‡	sun xi fu	1
+å­™å­	sun zi	1
+å ‚å¼Ÿ	tang di	1
+å ‚å“¥	tang ge	1
+å ‚å§	tang jie	1
+å ‚å¦¹	tang mei	1
+å ‚å…„å¼Ÿ	tang xiong di	1
+å ‚å§Šå¦¹	tang zi mei	1
+å¤–å…¬	wai gong	1
+å¤–å©†	wai po	1
+å¤–ç”¥	wai sheng	1
+å¤–ç”¥å¥³	wai sheng nv	1
+å¤–ç”¥å¥³å©¿	wai sheng nv xu	1
+å¤–ç”¥åª³å¦‡	wai sheng xi fu	1
+å¤–å­™	wai sun	1
+å¤–å­™å¥³	wai sun nv	1
+å¤–ç¥–çˆ¶	wai zu fu	1
+å¤–ç¥–æ¯	wai zu mu	1
+åª³å¦‡	xi fu	1
+å°å§‘	xiao gu	1
+å°å§‘å­	xiao gu zi	1
+å°èˆ…å­	xiao jiu zi	1
+å°å”	xiao shu	1
+å°å§¨	xiao yi	1
+å°å§¨å¦¹	xiao yi mei	1
+å…„å¼Ÿ	xiong di	1
+ç„å­™	xuan sun	1
+è¡€è€è¡¨	xue lao biao	1
+å…»çˆ¶	yang fu	1
+å…»æ¯	yang mu	1
+å¹ºçˆ¸	yao ba	1
+å¹ºå©¶	yao shen	1
+çˆ·å”	ye shu	1
+çˆ·çˆ·	ye ye	1
+å§¨å¤«	yi fu	1
+å§¨å…¬	yi gong	1
+å§¨å§	yi jie	1
+å§¨è€è¡¨	yi lao biao	1
+å§¨å¦ˆ	yi ma	1
+å§¨å¦¹	yi mei	1
+å§¨å¦¹å¤«	yi mei fu	1
+å§¨æ¯	yi mu	1
+å§¨å”	yi shu	1
+å§»äº²	yin qin	1
+å¹¼å¼Ÿ	you di	1
+å¹¼å¦¹	you mei	1
+å²³çˆ¶	yue fu	1
+å²³æ¯	yue mu	1
+æ›¾å­™	zeng sun	1
+æ›¾ç¥–çˆ¶	zeng zu fu	1
+æ›¾ç¥–æ¯	zeng zu mu	1
+ä¸ˆå¤«	zhang fu	1
+ä¸ˆæ¯å¨˜	zhang mu niang	1
+ä¸ˆäºº	zhang ren	1
+é•¿å…„	zhang xiong	1
+é•¿å§Š	zhang zi	1
+ä¾„å¥³	zhi nv	1
+ä¾„å¥³å©¿	zhi nv xu	1
+ä¾„å­™	zhi sun	1
+ä¾„å­™å¥³	zhi sun nv	1
+ä¾„åª³å¦‡	zhi xi fu	1
+ä¾„å­	zhi zi	1
+å¦¯å¨Œ	zhou li	1
+å§Šå¤«	zi fu	1
+ç¥–çˆ¶	zu fu	1
+ç¥–å§‘æ¯	zu gu mu	1
+ç¥–æ¯	zu mu	1

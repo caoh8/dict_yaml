@@ -1,4 +1,4 @@
-# Rime dictionary
+﻿# Rime dictionary
 # encoding: utf-8
 #
 # Luna Pinyin - 明月拼音
@@ -33,10 +33,7 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
 
-ㄛ	s
-白是白色的白	s
-奇奇怪怪	s
-这个也行	s
+pinyin.dict	dictmusic	1
 〇	ling
 ㄓ	zhi
 ㄔ	chi

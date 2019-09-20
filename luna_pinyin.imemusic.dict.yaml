@@ -1,0 +1,52 @@
+﻿---
+name: luna_pinyin.imemusic
+version: "20190905"
+sort: by_weight
+use_preset_vocabulary: true
+...
+imemusic.dict	dictmusic	1
+曹	c	1
+从	c	1
+吃	c	1
+的	d	1
+发	f	1
+噶	g	1
+i	i	1
+骄傲	j	1
+卡	k	1
+啦	l	1
+吗	m	1
+嘛	m	1
+呢	n	1
+那	n	1
+哪	n	1
+怕	p	1
+啪	p	1
+去	q	1
+人	r	1
+让	r	1
+如	r	1
+日	r	1
+是	s	1
+说	s	1
+上	s	1
+三	s	1
+他	t	1
+她	t	1
+它	t	1
+u	u	1
+v	v	1
+我	w	1
+为	w	1
+哇	w	1
+下	x	1
+想	x	1
+先	x	1
+有	y	1
+一	y	1
+也	y	1
+要	y	1
+以	y	1
+在	z	1
+这	z	1
+赞	z	1

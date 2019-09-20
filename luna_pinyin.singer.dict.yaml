@@ -1,9 +1,10 @@
----
+﻿---
 name: luna_pinyin.singer
 version: "20190905"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+singer.dict	dictmusic	1
 阿班	a ban	1
 阿班盖哈特	a ban gai ha te	1
 阿宝	a bao	1

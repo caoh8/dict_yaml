@@ -1,10 +1,27 @@
----
+﻿---
 name: luna_pinyin.junyi
-version: "20190727"
+version: "20190905"
 sort: by_weight
 use_preset_vocabulary: true
 # 此处为扩充词库（基本）默认链接载入的词库
 import_tables:
   - luna_pinyin
+  - luna_pinyin.imemusic
+  - luna_pinyin.dailywords
+  - luna_pinyin.diming
+  - luna_pinyin.dongman
+  - luna_pinyin.dongwu
+  - luna_pinyin.liaotianduanyu
+  - luna_pinyin.moviesong
+  - luna_pinyin.musicbigpackage
+  - luna_pinyin.popmusic
+  - luna_pinyin.qinqi
+  - luna_pinyin.shucai
+  - luna_pinyin.shuzishijian
+  - luna_pinyin.singer
   - luna_pinyin.sogou
+  - luna_pinyin.songpackage
+  - luna_pinyin.sougoubiaozhun
+  - luna_pinyin.wangluoliuxing
+  - luna_pinyin.yinshi
 ...
