@@ -1,0 +1,200 @@
+---
+name: luna_pinyin.zhoujielun
+version: "20190905"
+sort: by_weight
+use_preset_vocabulary: true
+...
+阿尔法	a er fa	1
+阿尔法唱片	a er fa chang pian	1
+爱情俘虏	ai qing fu lu	1
+爱情悬崖	ai qing xuan ya	1
+爱在西元前	ai zai xi yuan qian	1
+爱做梦的鱼	ai zuo meng de yu	1
+暗号	an hao	1
+安静	an jing	1
+八度空间	ba du kong jian	1
+爸我回来了	ba wo hui lai le	1
+白色风车	bai se feng che	1
+白色羽毛	bai se yu mao	1
+半岛铁盒	ban dao tie he	1
+半兽人	ban shou ren	1
+抱一抱	bao yi bao	1
+北斗星	bei dou xing	1
+悲伤的斜对面	bei shang de xie dui mian	1
+不爱我的画面	bu ai wo de hua mian	1
+不告而别	bu gao er bie	1
+不会哭的人	bu hui ku de ren	1
+布拉格广场	bu la ge guang chang	1
+不能说的秘密	bu neng shuo de mi mi	1
+不是不想	bu shi bu xiang	1
+唱歌的人最快乐	chang ge de ren zui kuai le	1
+扯铃	che ling	1
+触电	chu dian	1
+催泪	cui lei	1
+大灌篮	da guan lan	1
+打开爱	da kai ai	1
+大声讲出心内的话	da sheng jiang chu xin nei de hua	1
+淡江中学	dan jiang zhong xue	1
+倒带	dao dai	1
+到底谁是伊	dao di shui shi yi	1
+刀锋边缘	dao feng bian yuan	1
+刀马旦	dao ma dan	1
+稻香	dao xiang	1
+地狱天使	di yu tian shi	1
+点灯泡	dian deng pao	1
+定时炸弹	ding shi zha dan	1
+东风破	dong feng po	1
+动心	dong xin	1
+斗牛	dou niu	1
+杜国璋	du guo zhang	1
+断了的弦	duan le de xian	1
+对不起	dui bu qi	1
+耳边风	er bian feng	1
+二楞子	er leng zi	1
+发如雪	fa ru xue	1
+发烫	fa tang	1
+反方向的钟	fan fang xiang de zhong	1
+范特西	fan te xi	1
+方世杰	fang shi jie	1
+方文山	fang wen shan	1
+分裂	fen lie	1
+疯狂猜歌周杰伦版	feng kuang cai ge zhou jie lun ban	1
+搁浅	ge qian	1
+给我一首歌的时间	gei wo yi shou ge de shi jian	1
+灌篮	guan lan	1
+轨迹	gui ji	1
+桂纶镁	gui lun mei	1
+哈啦	ha la	1
+海盗	hai dao	1
+河滨公园	he bin gong yuan	1
+黑色毛衣	hei se mao yi	1
+黑色幽默	hei se you mo	1
+黑雨	hei yu	1
+红模仿	hong mo fang	1
+胡同里的猫	hu tong li de mao	1
+胡同里有只猫	hu tong li you zhi mao	1
+花海	hua hai	1
+黄金甲	huang jin jia	1
+回到过去	hui dao guo qu	1
+火车叨位去	huo che dao wei qu	1
+或许你是对的	huo xu ni shi dui de	1
+鸡排饭	ji pai fan	1
+简单爱	jian dan ai	1
+将军	jiang jun	1
+借口	jie kou	1
+姐你睡了吗	jie ni shui le ma	1
+杰威尔	jie wei er	1
+菊花台	ju hua tai	1
+开不了口	kai bu liao kou	1
+康晋荣	kang jin rong	1
+可爱女人	ke ai nv ren	1
+快过期的草莓	kuai guo qi de cao mei	1
+困兽之斗	kun shou zhi dou	1
+蓝色风暴	lan se feng bao	1
+浪漫手机	lang man shou ji	1
+两个寂寞	liang ge ji mo	1
+流浪车票	liu lang che piao	1
+六壮士	liu zhuang shi	1
+龙卷风	long juan feng	1
+龙拳	long quan	1
+龙战骑士	long zhan qi shi	1
+乱舞春秋	luan wu chun qiu	1
+落雨声	luo yu sheng	1
+麦芽糖	mai ya tang	1
+慢歌	man ge	1
+迷迭香	mi die xiang	1
+米兰的小铁匠	mi lan de xiao tie jiang	1
+面具	mian ju	1
+魔杰座	mo jie zuo	1
+你比从前快乐	ni bi cong qian kuai le	1
+逆鳞	ni lin	1
+你听得到	ni ting de dao	1
+你走	ni zou	1
+娘子	niang zi	1
+牛仔很忙	niu zai hen mang	1
+懦夫	nuo fu	1
+飘移	piao yi	1
+平衡点	ping heng dian	1
+蒲公英的约定	pu gong ying de yue ding	1
+七里香	qi li xiang	1
+骑士精神	qi shi jing shen	1
+千里之外本草纲目	qian li zhi wai ben cao gang mu	1
+乔克叔叔	qiao ke shu shu	1
+情画	qing hua	1
+晴天	qing tian	1
+热带雨林	re dai yu lin	1
+忍者	ren zhe	1
+容易破碎的心	rong yi po sui de xin	1
+三眠三日	san mian san ri	1
+三年二班	san nian er ban	1
+珊瑚海	shan hu hai	1
+上海一九四三	shang hai yi jiu si san	1
+蛇舞	she wu	1
+世界末日	shi jie mo ri	1
+十一月的萧邦	shi yi yue de xiao bang	1
+耍花样	shua hua yang	1
+双刀	shuang dao	1
+双截棍	shuang jie gun	1
+谁是白痴	shui shi bai chi	1
+说好的幸福呢	shuo hao de xing fu ne	1
+四面楚歌	si mian chu ge	1
+算命	suan ming	1
+她的睫毛	ta de jie mao	1
+梯田	ti tian	1
+听妈妈的话	ting ma ma de hua	1
+同一种调调	tong yi zhong diao diao	1
+头文字	tou wen zi	1
+退后	tui hou	1
+退让	tui rang	1
+瓦解	wa jie	1
+外婆	wai po	1
+完美主义	wan mei zhu yi	1
+威廉古堡	wei lian gu bao	1
+温岚	wen lan	1
+温柔坏男人	wen rou huai nan ren	1
+我爱的人	wo ai de ren	1
+我不配	wo bu pei	1
+我的地盘	wo de di pan	1
+我很忙	wo hen mang	1
+我就是忘不掉找快乐的人	wo jiu shi wang bu diao zhao kuai le de ren	1
+蜗牛	wo niu	1
+屋顶	wu ding	1
+无与伦比为杰沉沦	wu yu lun bi wei jie chen lun	1
+吴宗宪	wu zong xian	1
+喜欢这样子	xi huan zhe yang zi	1
+瞎了聋了	xia le long le	1
+夏天的风	xia tian de feng	1
+相思是啥咪	xiang si shi sha mi	1
+心雨	xin yu	1
+星晴	xing qing	1
+徐若瑄	xu ruo xuan	1
+寻找周杰伦	xun zhao zhou jie lun	1
+眼泪知道	yan lei zhi dao	1
+夜的第七章	ye de di qi zhang	1
+野孩子	ye hai zi	1
+叶惠美	ye hui mei	1
+夜空的精灵	ye kong de jing ling	1
+夜曲	ye qu	1
+爷爷泡的茶	ye ye pao de cha	1
+一定要幸福	yi ding yao xing fu	1
+以父之名	yi fu zhi ming	1
+一壶乡愁	yi hu xiang chou	1
+一路向北	yi lu xiang bei	1
+依然范特西	yi ran fan te xi	1
+伊斯坦堡	yi si tan bao	1
+印地安老斑鸠	yin di an lao ban jiu	1
+冤家	yuan jia	1
+园游会	yuan you hui	1
+月光	yue guang	1
+站在你这边	zhan zai ni zhe bian	1
+战争	zhan zheng	1
+止战之殇	zhi zhan zhi shang	1
+重伤的汗水	zhong shang de han shui	1
+众生缘	zhong sheng yuan	1
+周大侠	zhou da xia	1
+周董	zhou dong	1
+周杰伦	zhou jie lun	1
+祝我生日快乐	zhu wo sheng ri kuai le	1
+自我催眠	zi wo cui mian	1
+最长的电影	zui chang de dian ying	1
+最后的战役	zui hou de zhan yi	1
