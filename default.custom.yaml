@@ -2,7 +2,7 @@ customization:
   distribution_code_name: ""
   distribution_version: ""
   generator: "Rime::SwitcherSettings"
-  modified_time: "Fri Sep 20 14:10:25 2019"
+  modified_time: "Mon Sep  2 19:23:13 2019"
   rime_version: 1.4.0
 patch:
   "ascii_composer/good_old_caps_lock": true

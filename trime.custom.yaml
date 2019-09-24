@@ -30,27 +30,28 @@ patch: # 朙月拼音、袖珍簡化字拼音、地球拼音九宮格
     name: 朙月九宮
     simplification: 1
     width: 22
-    height: 50    
+    height: 48
     label_transform: uppercase
     ascii_keyboard: letter
     key_symbol_offset_x: 0
-    key_symbol_offset_y: 1.8
+    key_symbol_offset_y: 0.8
     key_text_offset_x: 0
     key_text_offset_y: 0
     key_hint_offset_x: 0
     key_hint_offset_y: 0
     key_press_offset_x: 0
     key_press_offset_y: 0
+    vertical_gap: 3
     keys:
-      - {click: VoidSymbol, key_back_color: transparent, width: 100, height: 2}
+     # - {click: VoidSymbol, key_back_color: transparent, width: 100, height: 1}
     #第一行    
-      - {click: " ，", long_click: ";", key_back_color: btn2, width: 16}
+      - {click: "，", long_click: ";", key_back_color: btn2, width: 16}
       - {click: "'", label: "分词", long_click: 1, key_back_color: btn2}
       - {click: 2, label: ABC, long_click: 2, key_back_color: btn2}
       - {click: 3, label: DEF, long_click: 3, key_back_color: btn2}
       - {click: BackSpace, width: 18, key_back_color: back2}
     #第二行
-      - {click: "  。", long_click: ":", key_back_color: btn2, width: 16}
+      - {click: "。", long_click: ":", key_back_color: btn2, width: 16}
       - {click: 4, label: GHI, long_click: 4, key_back_color: btn2}
       - {click: 5, label: JKL, long_click: 5, key_back_color: btn2}
       - {click: 6, label: MNO, long_click: 6, key_back_color: btn2}
@@ -60,9 +61,9 @@ patch: # 朙月拼音、袖珍簡化字拼音、地球拼音九宮格
       - {click: 7, label: PQRS, long_click: 7, key_back_color: btn2}
       - {click: 8, label: TUV, long_click: 8, key_back_color: btn2}
       - {click: 9, label: WXYZ, long_click: 9, key_back_color: btn2}
-      - {click: "@", long_click: ".", width: 18, key_back_color: btn2}
+      - {click: Clear, width: 18, key_back_color: btn2}
     #第四行
-      - {click: Keyboard_symbols, key_text_size: 14, width: 16, key_back_color: btn2, height: 47}
+      - {click: Keyboard_symbols, key_text_size: 16, width: 16, key_back_color: btn2, height: 46}
       - {click: Keyboard_number, width: 16, key_back_color: btn2}
       - {click: space, width: 34, key_back_color: space}
       - {click: Keyboard_eng26, label: ' ', width: 12, key_back_color: switch_cn}
